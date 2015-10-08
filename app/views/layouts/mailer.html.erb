@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://s3.amazonaws.com/email/email-base.css">
+  </head>
+  <body>
+    <table class="wrapper">
+      <thead class="header-wrapper">
+        <tr class="header">
+          <th class="header-logo">
+            <img src="" />
+          </th>
+          <th class="header-text"><%= @title %></th>
+          <th class="header-icon">
+            <span class="icon <%= @icon_class %>" />
+          </th>
+        </tr>
+      </thead>
+      <%= yield %>
+      <tfoot class="footer-wrapper">
+        <tr class="footer">
+          <td></td>
+          <td>
+            &copy; Copyright App 2015. All Rights Reserved
+          </td>
+          <td></td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>

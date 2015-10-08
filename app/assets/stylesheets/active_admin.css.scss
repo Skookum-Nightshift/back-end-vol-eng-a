@@ -1,0 +1,39 @@
+// SASS variable overrides must be declared before loading up Active Admin's styles.
+//
+// To view the variables that Active Admin provides, take a look at
+// `app/assets/stylesheets/active_admin/mixins/_variables.css.scss` in the
+// Active Admin source.
+//
+// For example, to change the sidebar width:
+// $sidebar-width: 242px;
+
+// Active Admin's got SASS!
+@import "active_admin/mixins";
+@import "active_admin/base";
+
+$skinActiveColor: #3498db;
+$skinHeaderBck: #2c3e50;
+$panelHeaderBck: #2c3e50;
+// $skinLogo: url("admin_logo.png") no-repeat 0 0;
+
+@import "active_skin";
+
+#header {
+  background-color: #FFF;
+}
+
+#titlebar_right .action_items a {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  background: #3498db !important;
+  color: #FFF !important;
+  border: none !important;
+  padding: 17px !important;
+  font-size: 14px !important;
+}
+
+form .inline-hints img {
+  max-width: 160px;
+  height: auto;
+}

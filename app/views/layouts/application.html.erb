@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hasten.io</title>
+  <%= render 'layouts/meta' %>
+  <%= stylesheet_link_tag    'application', media: 'all' %>
+  <%= javascript_include_tag 'modernizr' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <%= render 'layouts/alert' %>
+
+  <%= yield %>
+
+  <%= javascript_include_tag 'application' %>
+</body>
+</html>

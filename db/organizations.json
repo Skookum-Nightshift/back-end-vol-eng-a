@@ -986,6 +986,36 @@ your friendship. By simply changing their perspective of what the world can offe
           "orientation",
         ],
       },
+      {
+        "name": "Intake Staff Assistant",
+        "address": "",
+        "description": "Support our staff by assisting with guest check-in, answering phones, distributing towels and sheets, etc.",
+        "tags": 
+        [
+          "indiviual",
+          "direct",
+          "homelessness",
+          "men",
+          "minimum-age",
+          "application",
+          "orientation",
+        ],
+      },
+      {
+        "name": "Housing &amp; Employment Resource Center",
+        "address": "",
+        "description": "Assist guests finding housing, applying for jobs, getting ID cards and addressing other barriers to help men obtain and maintain employment and housing.",
+        "tags": 
+        [
+          "homelessness",
+          "men",
+          "indiviual",
+          "weekly",
+          "minimum-age",
+          "application",
+          "orientation",
+        ],
+      },
     ],
   },
   {
@@ -1757,6 +1787,105 @@ all people in the civic, economic and cultural life of North Carolina through ed
           "individual",
           "spanish",
           "ongoing",
+        ],
+      },
+    ],
+  },
+  {
+    "name": "Mental Health Association of Central Carolinas",
+    "contact": 
+    {
+      "address": "3701 Latrobe Drive, Suite 140, Charlotte, NC 28211",
+      "email": "",
+      "phone": "",
+      "web": "http://www.mhacentralcarolinas.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": "",
+    },
+    "tags": 
+    [
+    ],
+    "description": "The MHA’s mission is to promote mental wellness through advocacy, prevention, and education in Mecklenburg and Cabarrus Counties. The Compeer program is a socialization program for persons diagnosed with a mental health disorder.",
+    "opportunities": 
+    [
+      {
+        "name": "Compeer One-to-One Volunteer",
+        "address": "",
+        "description": "Compeer Friends meet face-to-face with their match twice a month. Many matches go to a movie, have lunch, play sports, or enjoy other social activities.",
+        "tags": 
+        [
+          "indiviual",
+          "weekly",
+          "direct",
+          "children-and-teens",
+          "sports-recreation",
+          "application",
+          "interview",
+          "orientation",
+        ],
+      },
+      {
+        "name": "Compeer Callers",
+        "address": "",
+        "description": "Compeer callers make a weekly call to an individual waiting to be matched one-to-one.",
+        "tags": 
+        [
+          "indiviual",
+          "weekly",
+          "application",
+          "interview",
+          "orientation",
+          "office",
+        ],
+      },
+    ],
+  },
+  {
+    "name": "Metrolina Association for the Blind",
+    "contact": 
+    {
+      "address": "704 Louise Ave., Charlotte, NC 28201",
+      "email": "",
+      "phone": "",
+      "web": "http://www.mabnc.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": "",
+    },
+    "tags": 
+    [
+      "health-and-wellness",
+    ],
+    "description": "Metrolina Association for the Blind (MAB) provides rehabilitative services to approximately 1000 people who are visually impaired in Mecklenburg, Union, and Cabarrus Counties.",
+    "opportunities": 
+    [
+      {
+        "name": "Volunteer Receptionist",
+        "address": "",
+        "description": "Answering phones, greeting guests, collecting payments, and small on-time jobs to support the therapists.",
+        "tags": 
+        [
+          "indiviual",
+          "indirect",
+          "office",
+          "minimum-age",
+          "training-or-certification",
+          "background-check",
+          "drug-screening",
+        ],
+      },
+      {
+        "name": "Volunteer Drivers",
+        "address": "",
+        "description": "Use a seven passenger agency van to drive clients to medical appointments, shopping, rehabilitation training or for access to other community resources. Drivers may be asked to stay with the client to assist with guiding them or shopping.",
+        "tags": 
+        [
+          "indirect",
+          "direct",
+          "weekly",
+          "background-check",
+          "drug-screening",
         ],
       },
     ],

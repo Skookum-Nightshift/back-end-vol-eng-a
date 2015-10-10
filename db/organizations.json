@@ -971,6 +971,21 @@ your friendship. By simply changing their perspective of what the world can offe
           "homelessness",
         ],
       },
+      {
+        "name": "Meal Buddy",
+        "address": "",
+        "description": "Come spend a meal time with our guests (breakfast, lunch, or dinner). Sharing meals has proven to enhance health and quality of life.",
+        "tags": 
+        [
+          "men",
+          "indiviual",
+          "direct",
+          "homelessness",
+          "minimum-age",
+          "application",
+          "orientation",
+        ],
+      },
     ],
   },
   {

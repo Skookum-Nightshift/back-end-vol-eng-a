@@ -10,7 +10,7 @@ data.each do |org|
   end
 
   org["opportunities"].each do |opportunity|
-    y = Opportunity.create(name: opportunity["name"])
+    y = Opportunity.create(name: opportunity["name"], address: opportunity["address"], description: opportunity["description"])
     opportunity["tags"].each do |tag|
       y.tags << Tag.find_or_create_by(name: tag)
     end

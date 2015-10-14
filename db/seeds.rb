@@ -1,6 +1,6 @@
 require 'json'
 
-data = JSON.parse(File.read('db/fixtures/org.json'))
+data = JSON.parse(File.read('db/fixtures/orgs.json'))
 
 data.each do |org|
   x = Organization.create(name: org["name"])

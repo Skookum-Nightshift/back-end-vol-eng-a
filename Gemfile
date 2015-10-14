@@ -1,5 +1,6 @@
 source "https://rubygems.org"
-ruby "2.2.2"
+ruby "2.1.1"
+#2.2.2
 
 gem "activeadmin", github: "activeadmin"
 gem "active_skin"

@@ -1,7 +1,19 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
-#
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+require 'json'
+
+data = JSON.parse(File.read('db/fixtures/org.json'))
+
+data.each do |org|
+  x = Organization.create(name: org["name"])
+
+  org["categories"].each do |category|
+    x.categories << Category.find_or_create_by(name: category)
+  end
+
+  org["opportunities"].each do |opportunity|
+    y = Opportunity.create(name: opportunity["name"])
+    opportunity["tags"].each do |tag|
+      y.tags << Tag.find_or_create_by(name: tag)
+    end
+    x.opportunities << y
+  end
+end

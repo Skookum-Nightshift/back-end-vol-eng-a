@@ -4,6 +4,7 @@ class CreateOpportunities < ActiveRecord::Migration
       t.string :name
       t.string :address
       t.text :description
+      t.belongs_to :organization
 
       t.timestamps null: false
     end

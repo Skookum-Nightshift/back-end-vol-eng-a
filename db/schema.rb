@@ -63,8 +63,9 @@ ActiveRecord::Schema.define(version: 20151014170633) do
     t.string   "name"
     t.string   "address"
     t.text     "description"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.integer  "organization_id"
+    t.datetime "created_at",      null: false
+    t.datetime "updated_at",      null: false
   end
 
   create_table "organizations", force: :cascade do |t|

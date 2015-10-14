@@ -1,0 +1,1885 @@
+[
+  {
+    "name": "A Child’s Place",
+    "contact":
+    {
+      "address": "601 E. Fifth Street Suite 230 Charlotte, NC 28202",
+      "email": "",
+      "phone": "7043433790",
+      "web": "http://www.achildsplace.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/achildsplace.place",
+      "twitter": "http://twitter.com/ACPCharlotte",
+      "youtube": "http://www.youtube.com/user/AChildsPlaceNC"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "homelessness",
+      "education"
+    ],
+    "description": "There are more than 4,000 homeless children in CMS. A Child’s Place works to erase the impact of homelessness on children and their education. By providing educational and emotional support as well as medical referrals, children are able to stay in the classroom.",
+    "opportunities":
+    [
+      {
+        "name": "Snack Packs",
+        "address": "601 E. Fifth Street Suite 230 Charlotte, NC 28202",
+        "description": "Compile snack bags for children. Each snack pack will include 3 items: juice (prefer 100% juice boxes, but capri suns are also great), carb (crackers, granola, bars, breakfast bars, etc.), fruit (fruit cup, applesauce, fruit snacks). Bags should be lunch size brown bags.",
+        "tags":
+        [
+          "indirect",
+          "group",
+          "food-preparation",
+          "homelessness",
+          "homelessness",
+          "ongoing",
+          "one-time"
+        ]
+      },
+      {
+        "name": "Snack Pack Program Support",
+        "address": "601 E. Fifth Street Suite 230 Charlotte, NC 28202",
+        "description": "Assist us in our main office with office projects. Organizing resource rooms and snack deliveries. We are always in need of assistance at our front desk.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "office",
+          "ongoing",
+          "one-time"
+        ]
+      },
+      {
+        "name": "Be a Bunny Program",
+        "address": "",
+        "description": "The Be A Bunny program is a great way to provide Easter Baskets to children in need in our community. Volunteer groups put together Easter Baskets that include the traditional candy, small games and stuffed animals and also include items that these children need like school supplies, socks, toothbrushes, toothpaste, etc. ",
+        "tags":
+        [
+          "group",
+          "seasonal",
+          "children-and-teens",
+          "direct",
+          "donated-goods"
+        ]
+      },
+      {
+        "name": "Lunch or Breakfast Buddy",
+        "address": "Various Locations",
+        "description": "Provide a mentoring friendship for a child. Volunteer comes to school to meet with their assigned “buddy”.",
+        "tags":
+        [
+          "indiviual",
+          "children-and-teens",
+          "direct",
+          "weekly",
+          "application",
+          "background-check",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Tutor",
+        "address": "",
+        "description": "Assist students with homework, prepare for tests, or help with reading/math skills.",
+        "tags":
+        [
+          "indiviual",
+          "children-and-teens",
+          "education",
+          "direct",
+          "weekly",
+          "application",
+          "background-check",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Classroom Assistant",
+        "address": "",
+        "description": "Assist teacher with facilitating classroom activities. Responsibilities include tutoring, leading small groups, art projects, checking papers, and other helpful tasks.",
+        "tags":
+        [
+          "indiviual",
+          "children-and-teens",
+          "education",
+          "direct",
+          "weekly",
+          "application",
+          "background-check",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Snack Deliveries",
+        "address": "",
+        "description": "Transport snacks from the ACP main office to specific CMS school sites.",
+        "tags":
+        [
+          "indiviual",
+          "indirect",
+          "children-and-teens",
+          "donated-goods",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aldersgate",
+    "contact":
+    {
+      "address": "3800 Shamrock Drive, Charlotte, NC 28215",
+      "email": "info@aldersgateccrc.com",
+      "phone": "7045327000",
+      "web": "http://www.aldersgateccrc.com",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/AldersgateUMRC"
+    },
+    "tags":
+    [
+      "seniors"
+    ],
+    "description": "Aldersgate is an older adult community that offers independent, assisted and a skilled nursing care living facility. They have a variety of volunteer opportunities available for groups of all ages",
+    "opportunities":
+    [
+      {
+        "name": "Interactive Activity",
+        "address": "3800 Shamrock Drive, Charlotte, NC 28215",
+        "description": "Plan a fun and interactive activity for the seniors living at Aldersgate (games, singing, arts & crafts, themed parties, etc.)",
+        "tags":
+        [
+          "direct",
+          "group",
+          "weekday",
+          "weekend",
+          "seniors",
+          "onetime",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Big Brothers/Big Sisters",
+    "contact":
+    {
+      "address": " 3801 E Independence Boulevard, Suite 101, Charlotte, NC 28205",
+      "email": "",
+      "phone": "704.910.1301",
+      "web": "http://www.bbbscharlotte.org",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/bbbsgc",
+      "twitter": "https://twitter.com/BBBSChar",
+      "youtube": "http://www.youtube.com/bbbsgc"
+    },
+    "tags":
+    [
+    ],
+    "description": "The Big Brothers Big Sisters mission is to provide children facing adversity with strong and enduring, professionally supported 1-to-1 relationships that change their lives for the better, forever.",
+    "opportunities":
+    [
+      {
+        "name": "Big Brother or Big Sister",
+        "address": "Varies",
+        "description": "For a few hours, a couple times a month, you can give a Little the invaluable gift of your friendship. By simply changing their perspective of what the world can offer, you can literally start changing their lives. And sometimes it’s as simple as playing video games, going to a museum, or just hanging out together.",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "children-and-teens",
+          "education",
+          "ongoing",
+          "application",
+          "background-check",
+          "interview"
+        ]
+      },
+      {
+        "name": "First Impressions",
+        "address": "",
+        "description": "Greet guests and visitors upon arrival at the office; answer phones and route calls; assist with administrative tasks.",
+        "tags":
+        [
+          "indirect",
+          "indiviual",
+          "office",
+          "orientation",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boys &amp; Girls Club (The Salvation Army Carolinas)",
+    "contact":
+    {
+      "address": "Locations Vary",
+      "email": "",
+      "phone": "7045224970",
+      "web": "https://www.salvationarmycarolinas.org/programs/nurture/boys-and-girls-clubs/",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/salvationarmycarolinas",
+      "flickr": "https://www.flickr.com/photos/tsacarolinas/sets/",
+      "twitter": "http://www.twitter.com/tsacarolinas"
+    },
+    "tags":
+    [
+      "arts-and-crafts",
+      "children-and-teens",
+      "education",
+      "health-and-wellness",
+      "employment-and-life-skills",
+      "sports-recreation"
+    ],
+    "description": "The Boys & Girls Club provides a positive and safe environment for disadvantaged children after school and during the summer months.",
+    "opportunities":
+    [
+      {
+        "name": "Club Assistants",
+        "address": "Locations Vary",
+        "description": "Volunteers will interact with 40+ children when they arrive from school, assist with homework for 45 minutes and then play games. You may also take refreshments - ice cream party, cupcakes & punch, cookies & lemonade, etc.",
+        "tags":
+        [
+          "direct",
+          "group",
+          "weekday",
+          "afternoons",
+          "children-and-teens",
+          "education",
+          "sports-recreation",
+          "minimum-number-people",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Mentor",
+        "address": "Varies",
+        "description": "Volunteers to mentor children from single parent families to provide one on one friendship in the community based and school based programs. Male volunteers are extremely encouraged to apply in the community based program as the large majority of children are boys.",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "weekly",
+          "children-and-teens",
+          "employment-and-life-skills",
+          "education",
+          "application",
+          "background-check",
+          "orientation",
+          "children-and-teens"
+        ]
+      },
+      {
+        "name": "Tutor",
+        "address": "Varies",
+        "description": "Volunteers are needed to assist students ages 5-17 with reading and homework in the afterschool programs.",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "weekly",
+          "children-and-teens",
+          "employment-and-life-skills",
+          "education",
+          "application",
+          "background-check",
+          "orientation",
+          "children-and-teens"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Center of Hope (The Salvation Army Carolinas)",
+    "contact":
+    {
+      "address": "534 Spratt Street, Charlotte, NC 28206",
+      "email": "sarah.gamble@uss.salvationarmy.org",
+      "phone": "7043482560",
+      "web": "https://www.salvationarmycarolinas.org/charlotte/programs/homeless-services/",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/salvationarmycharlotte",
+      "flickr": "https://www.flickr.com/photos/tsacarolinas/sets/",
+      "twitter": "https://www.twitter.com/salarmycharmeck"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "crisis-support",
+      "homelessness",
+      "women"
+    ],
+    "description": "Charlotte’s only 24/7 year-round emergency shelter for women and children. The Center of Hope has 280 beds and routinely operates at capacity. The Center of Hope is the largest such shelter in the Southeast, the Center of Hope offers a comprehensive program of on-site services, including the nation’s only Boys & Girls Club within a homeless shelter.",
+    "opportunities":
+    [
+      {
+        "name": "Kitchen Volunteers",
+        "address": "534 Spratt Street, Charlotte, NC 28206",
+        "description": "All volunteers should be 12 years or older to be in the kitchen. Younger children may participate in serving drinks or helping with other needs out of the kitchen area with adult supervision. Breakfast 6:45am Mon-Fri and 7:30am Sat-Sun; Lunch 12:00pm; Dinner 5:00pm. If you are helping to serve a meal, please arrive 15 minutes before meal time. If you are helping to prepare a meal, please arrive at least 90 minutes before meal time. 5-10 people.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "indirect",
+          "weekday",
+          "weekend",
+          "mornings",
+          "afternoons",
+          "evenings",
+          "ongoing",
+          "crisis-support",
+          "food-preparation",
+          "homelessness",
+          "minimum-age",
+          "minimum-number-people",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Child Care",
+        "address": "",
+        "description": "We are in need of volunteers to help care for the children between the hours of 9-12, Monday-Friday. The extra assistance in the classroom will give more moms the chance to take advantage of the various services offered at the Center of Hope and provide a safe and fun environment for their little ones!",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "ongoing",
+          "children-and-teens",
+          "weekly",
+          "mornings",
+          "application",
+          "orientation",
+          "background-check"
+        ]
+      },
+      {
+        "name": "Tutor",
+        "address": "",
+        "description": "The Center of Hope has the unique privilege of having a Boy’s and Girl’s Club on-site and available for school age children K-12. The boys and girls here are in need of tutors to assist in homework assignments from 5-6pm, Monday-Thursday. This extra help is just what the kids need to succeed academically.",
+        "tags":
+        [
+          "children-and-teens",
+          "education",
+          "mondays",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "evenings",
+          "weekly",
+          "indiviual",
+          "application",
+          "orientation",
+          "background-check"
+        ]
+      },
+      {
+        "name": "Job Readiness Training",
+        "address": "",
+        "description": "Show Up For Life program is on the look-out for relatable and caring guest speakers who can share job readiness skills with the class. Such topics might include: interview skills, goal-setting, resume building, dressing for success, etiquette, etc. Show Up For Life takes place Monday-Thursday in the mornings on a four week cycle.",
+        "tags":
+        [
+          "indiviual",
+          "one-time",
+          "mondays",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "mornings",
+          "employment-and-life-skills",
+          "employment-and-life-skills"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charlotte Family Housing",
+    "contact":
+    {
+      "address": "300 Hawthorne Lane, Charlotte, NC 28204",
+      "email": "",
+      "phone": "7043355488",
+      "web": "https://www.charlottefamilyhousing.org",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/CharlotteFamilyHousing",
+      "twitter": "http://twitter.com/cltfamhousing",
+      "youtube": "http://www.youtube.com/user/CltFamHousing?sub_confirmation=1"
+    },
+    "tags":
+    [
+      "crisis-support",
+      "education",
+      "homelessness",
+      "employment-and-life-skills"
+    ],
+    "description": "Charlotte Family Housing provides supportive transitional shelter and affordable housing for families in several locations; Plaza Place, Hawthorne Place and various church congregations within the Family Promise program.",
+    "opportunities":
+    [
+      {
+        "name": "Prepare &amp; Serve Meals, General Activities",
+        "address":
+        [
+          "300 Hawthorne Lane, Charlotte, NC 28204",
+          "715 Hawthorne Lane, Charlotte, NC 28304"
+        ],
+        "description": "Volunteers are needed to provide and serve meals for the up to six families living there. Volunteers can also help with cleaning, plan a craft for the kids, or host a game night.",
+        "tags":
+        [
+          "direct",
+          "indirect",
+          "group",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "saturdays",
+          "arts-and-crafts",
+          "children-and-teens",
+          "food-preparation",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "General Maintenance ",
+        "address": "2410 The Plaza, Charlotte, NC 28205",
+        "description": "Volunteers are needed for yard work, indoor painting, cleaning and minor maintenance work.",
+        "tags":
+        [
+          "group",
+          "weekday",
+          "saturdays",
+          "mornings",
+          "afternoons",
+          "cleaning-and-maintenance",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "General Activities",
+        "address": "2410 The Plaza, Charlotte, NC 28205",
+        "description": "Groups are needed to organize activities such as craft projects, pizza and movie night, Wii game time or cookie baking. Volunteers can also assist with tutoring children or providing computer instruction. Landscaping flower planting and vegetable garden creation/maintenance are also needed volunteer activities.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "indirect",
+          "weekday",
+          "afternoons",
+          "evenings",
+          "arts-and-crafts",
+          "children-and-teens",
+          "education",
+          "cleaning-and-maintenance",
+          "sports-recreation",
+          "onetime",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charlotte-Mecklenburg County Parks",
+    "contact":
+    {
+      "address": "Locations Vary",
+      "email": "Park-Admin@mecklenburgcountync.gov",
+      "phone": "7043363854",
+      "web": "http://charmeck.org/mecklenburg/county/ParkandRec/Pages/Home.aspx",
+      "volunteer_url": "",
+      "facebook": "https://facebook.com/pages/Mecklenburg-County-Park-and-Recreation/287108246212?v=wall",
+      "twitter": "https://twitter.com/MeckParkRec"
+    },
+    "tags":
+    [
+      "cleaning-and-maintenance",
+      "sports-recreation"
+    ],
+    "description": "Help make our county beautiful.",
+    "opportunities":
+    [
+      {
+        "name": "Neighborhood Park Beautification",
+        "address": "Locations Vary",
+        "description": "Volunteers are needed to help clear trails of debris, pick-up litter, spread mulch, etc.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "saturdays",
+          "cleaning-and-maintenance",
+          "onetime",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charlotte-Mecklenburg Schools",
+    "contact":
+    {
+      "address": "Locations Vary",
+      "email": "",
+      "phone": "9803430474",
+      "web": "http://www.cms.k12.nc.us",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/CharMeckSchools",
+      "instagram": "http://instagram.com/charmeckschools",
+      "twitter": "https://twitter.com/CharMeckSchools",
+      "youtube": "http://www.youtube.com/playlist?list=PL0GRRhRZ9g44HBQV0G_fo4DIrMENt9m1X"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "education",
+      "sports-recreation"
+    ],
+    "description": "",
+    "opportunities":
+    [
+      {
+        "name": "General Activities/Maintenance",
+        "address": "Locations Vary",
+        "description": "Assisting in school grounds beautification – landscaping, etc.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "saturdays",
+          "cleaning-and-maintenance",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Media Center Assistance",
+        "address": "Locations Vary",
+        "description": "",
+        "tags":
+        [
+          "group",
+          "direct",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "saturdays",
+          "education",
+          "onetime",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crisis Assistance Ministry",
+    "contact":
+    {
+      "address": "500-A Spratt Street, Charlotte, NC 28206",
+      "email": "ckirby@crisisassistance.org",
+      "phone": "7043713001",
+      "web": "http://www.crisisassistance.org/",
+      "volunteer_url": "",
+      "facebook": "http://www.crisisassistance.org/fba/4/",
+      "twitter": "http://www.crisisassistance.org/fba/twitter/14/"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "crisis-support",
+      "homelessness",
+      "employment-and-life-skills"
+    ],
+    "description": "Crisis Assistance Ministry helps families facing financial crisis by: providing for basic needs with rent and utility assistance, clothing, household goods, furniture and appliances; fostering financial stability through partnerships, counseling, and support to give families the tools they need to move toward stability; and educating the community about the realities of poverty in Mecklenburg County.",
+    "opportunities":
+    [
+      {
+        "name": "Free Store Inspectors &amp; Sorters",
+        "address": "500-A Spratt Street, Charlotte, NC 28206",
+        "description": "Volunteers are needed to receive donations, sort clothing, inspect clothes for quality, and hang clothing. As part of the project, you could hold a clothing drive prior to visiting the agency. Men’s clothes and larger sizes are greatly needed.",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "indirect",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "fridays",
+          "saturdays",
+          "mornings",
+          "afternoons",
+          "donated-goods",
+          "minimum-age",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Breakfast or Lunch Ministry",
+        "address": "500-A Spratt Street, Charlotte, NC 28206",
+        "description": "Team volunteers provide food and beverages for customers in line in the morning or in the lobby during Breakfast or lunch at Crisis Assistance Ministry. Groups are asked to provide individually wrapped breakfast or lunch items to 200 people.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "food-preparation",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Relocation Assistance",
+        "address": "500-A Spratt Street, Charlotte, NC 28206",
+        "description": "Teams load, transport, and unload furniture and household goods for families leaving homelessness.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "thursdays",
+          "fridays",
+          "saturdays",
+          "mornings",
+          "afternoons",
+          "homelessness",
+          "minimum-age",
+          "heavy-lifting",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Donation Door Attendants",
+        "address": "",
+        "description": "Help donors in the Donation Drive-Thru by receiving donations and sharing genuine appreciation for material goods donations for the Free Store.",
+        "tags":
+        [
+          "indiviual",
+          "indirect",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "fridays",
+          "saturdays",
+          "mornings",
+          "afternoons",
+          "donated-goods"
+        ]
+      },
+      {
+        "name": "Furniture Bank Customer Service",
+        "address": "",
+        "description": "Assist customers with picking out furniture items and will be trained to answer customer and community phone inquiries.",
+        "tags":
+         [
+          "indiviual",
+          "direct",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "fridays",
+          "saturdays",
+          "mornings",
+          "afternoons",
+          "donated-goods"
+        ]
+      },
+      {
+        "name": "Furniture Bank Donation Collectors",
+        "address": "",
+        "description": "Help once a week, once a month or “on-call” to pick up donations from individuals and businesses in the community. Volunteers who have their own truck are especially needed, though volunteers are also needed to ride on agency trucks.",
+        "tags":
+        [
+          "indiviual",
+          "indirect",
+          "donated-goods",
+          "weekday",
+          "saturdays",
+          "mornings",
+          "afternoons"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classroom Central",
+    "contact":
+    {
+      "address": "2116 Wilkinson Boulevard, Charlotte, NC 28208",
+      "email": "risa@classroomcentral.org",
+      "phone": "7043771740",
+      "web": "http://www.classroomcentral.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/classroomcentral",
+      "flickr": "https://www.flickr.com/photos/classroomcentral",
+      "instagram": "https://instagram.com/classroomcentral",
+      "linkedin": "https://www.linkedin.com/company/classroom-central?trk=tyah&trkInfo=tas%3Aclassroom+central%2Cidx%3A1-1-1",
+      "twitter": "https://www.twitter.com/classrmcentral",
+      "youtube": "https://www.youtube.com/classroomcentral"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "education"
+    ],
+    "description": "Classroom Central’s mission is to equip students living in poverty to effectively learn by collecting and distributing free school supplies. We do this via four programs: a Free Store where teachers can “shop” for free school supplies, a Mobile Free Store which distributes supplies quarterly to geographically further districts, our Classroom Up online ordering program and a Backpacks and Basics program which targets the highest poverty schools in our region. Classroom Central supports over 200 schools in six school districts: Charlotte-Mecklenburg, Gaston, Iredell-Statesville, Kannapolis, Lancaster and Union. When equipped with the proper supplies, we believe there’s no limit to what children can achieve.",
+    "opportunities":
+    [
+      {
+        "name": "Teacher Shopping Assistant",
+        "address": "2116 Wilkinson Boulevard, Charlotte, NC 28208",
+        "description": "Assist teachers with check-in/out, answer questions and load items into teachers’ vehicles and other tasks as needed. Monday, Tuesday and Thursday afternoons. As part of your volunteer project, you could consider holding a school supply drive. Pencils and ink pens are always in great need.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "donated-goods",
+          "children-and-teens",
+          "education",
+          "mondays",
+          "tuesdays",
+          "thursdays",
+          "afternoons",
+          "onetime",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "General Help",
+        "address": "2116 Wilkinson Boulevard, Charlotte, NC 28208",
+        "description": "Stocking – sorting, counting, packing and placement of supplies for distribution to teachers. Die Cutting - cutting, packaging and labeling stencils for use by teachers.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "weekday",
+          "mornings",
+          "afternoons",
+          "onetime",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sow Much Good",
+    "contact":
+    {
+      "address": "Locations Vary",
+      "email": "",
+      "phone": "7049476842",
+      "web": "http://www.sowmuchgood.org",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/sowmuchgood",
+      "twitter": "http://www.twitter.com/sowmuchgood",
+      "youtube": "http://www.youtube.com/sowmuchgood"
+    },
+    "tags":
+    [
+      "homelessness",
+      "health-and-wellness",
+      "cleaning-and-maintenance"
+    ],
+    "description": "Sow Much Good (SMG) was founded to eliminate socio-economic, racial, and ethnic health disparities that result from a lack of access to nutritionally dense food products in marginalized populations. SMG works to achieve food justice through programming and community based initiatives designed to provide equal access to organic food sources; to inspire individuals to take charge of their health and to promote healthy lifestyles through food and nutrition. - See more at: http://www.sowmuchgood.org/about-us/#sthash.lKDKm3M6.dpuf",
+    "opportunities":
+    [
+      {
+        "name": "Gardening",
+        "address": "Locations Vary",
+        "description": "Volunteers will help with weeding, planting, watering, organic pest management, composting and harvesting activities.",
+        "tags":
+        [
+          "group",
+          "one-time",
+          "ongoing",
+          "weekday",
+          "weekend",
+          "indirect",
+          "cleaning-and-maintenance"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Friendship Trays/Gardens",
+    "contact":
+    {
+      "address": "2401-A Distribution Street, Charlotte, NC 28203",
+      "email": "",
+      "phone": "7043339229",
+      "web": "friendshiptrays.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/friendshiptrays",
+      "twitter": "https://twitter.com/FriendshipTrays",
+      "instagram": "http://instagram.com/friendshiptrays",
+      "googleplus": "https://plus.google.com/102911940642387259801/videos"
+    },
+    "tags":
+    [
+      "cleaning-and-maintenance",
+      "seniors",
+      "homelessness",
+      "health-and-wellness",
+      "food-preparation"
+    ],
+    "description": "Friendship Trays is a private, nonprofit agency that delivers more than 500 meals daily to elderly and homebound recipients in the Charlotte area. Due to individual’s dietary restrictions, they specialize in 15 modified diets.",
+    "opportunities":
+    [
+      {
+        "name": "Gardening",
+        "address": "2401-A Distribution Street, Charlotte, NC 28203",
+        "description": "Volunteers will help with weeding, planting, watering, organic pest management, composting and harvesting activities.",
+        "tags":
+        [
+          "group",
+          "one-time",
+          "ongoing",
+          "weekday",
+          "weekend",
+          "indirect",
+          "cleaning-and-maintenance"
+        ]
+      },
+      {
+        "name": "Prepare &amp; Pack Meals",
+        "address": "2401-A Distribution Street, Charlotte, NC 28203",
+        "description": "The Kitchen Helpers put the food in containers so it is ready for the drivers. Some chopping, slicing, or dicing may be required. Some volunteers will help seal, label and distribute the meals to the volunteer drivers",
+        "tags":
+        [
+          "group",
+          "one-time",
+          "ongoing",
+          "indirect",
+          "food-preparation",
+          "weekday",
+          "mornings"
+        ]
+      },
+      {
+        "name": "Meal Delivery",
+        "address": "Locations Vary",
+        "description": "Drivers allow an hour and a half to drop off the meals to the individuals on a route. In that time, volunteers deliver much more than food: The deliver a smile, a helping hand, and a daily visit from someone who cares.",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "one-time",
+          "ongoing",
+          "direct",
+          "elderly",
+          "weekday",
+          "mornings"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Love INC",
+    "contact":
+    {
+      "address": "2633 Eastway Drive, Charlotte, NC  28205",
+      "email": "information@loveinc-charlotte.org",
+      "phone": "7045365588",
+      "web": "https://www.loveinc-charlotte.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/#!/LoveIncCharlotte",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "cleaning-and-maintenance",
+      "elderly",
+      "employment-and-life-skills"
+    ],
+    "description": "Love INC provides home repairs and maintenance to elderly, disabled and low income individuals who are not able to pay for minor home repairs. Services include minor carpentry, handrails, bath grab-bars, minor repairs, wheelchair ramps and various types of yard work and maintenance.",
+    "opportunities":
+    [
+      {
+        "name": "Ramp It Up",
+        "address": "",
+        "description": "Work along side a licensed contractor to build a wheel chair ramp for someone in need.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "one-time",
+          "weekday",
+          "weekend",
+          "elderly",
+          "cleaning-and-maintenance"
+        ]
+      },
+      {
+        "name": "House Cleaning/ Grocery Shopper",
+        "address": "",
+        "description": "Provide house cleaning or assist with grocery shopping for someone who cannot complete the tasks on their own. Most of the clients live in the 28273, 14, 03, and 09 zip codes. All volunteers must be affiliated with a church and must provide your own transportation.",
+        "tags":
+        [
+          "individual",
+          "direct",
+          "indirect",
+          "cleaning-and-maintenance",
+          "monthly"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Men's Shelter of Charlotte",
+    "contact":
+    {
+      "address": "1210 N. Tryon Street, Charlotte, NC 28206-3256",
+      "email": "Holly.Minter@MensShelterofCharlotte.org",
+      "phone": "7043343187",
+      "web": "http://www.mensshelterofcharlotte.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "homelessness",
+      "employment-and-life-skills",
+      "crisis-support",
+      "food-preparation"
+    ],
+    "description": "The Men’s Shelter of Charlotte provides safe emergency shelter while working to end homelessness. MSC operates two shelters and provides, meals, clothing and support services including substance abuse counseling and housing and employment assistance.",
+    "opportunities":
+    [
+      {
+        "name": "Lunch Coordinator",
+        "address": "",
+        "description": "Plan, purchase, prepare and serve lunch for the men at the Shelter. This project is much easier than it sounds and not expensive at all to do.",
+        "tags":
+        [
+          "group",
+          "one-time",
+          "direct",
+          "indirect",
+          "food-preparation",
+          "homelessness"
+        ]
+      },
+      {
+        "name": "Meal Buddy",
+        "address": "",
+        "description": "Come spend a meal time with our guests (breakfast, lunch, or dinner). Sharing meals has proven to enhance health and quality of life.",
+        "tags":
+        [
+          "men",
+          "indiviual",
+          "direct",
+          "homelessness",
+          "minimum-age",
+          "application",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Intake Staff Assistant",
+        "address": "",
+        "description": "Support our staff by assisting with guest check-in, answering phones, distributing towels and sheets, etc.",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "homelessness",
+          "men",
+          "minimum-age",
+          "application",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Housing &amp; Employment Resource Center",
+        "address": "",
+        "description": "Assist guests finding housing, applying for jobs, getting ID cards and addressing other barriers to help men obtain and maintain employment and housing.",
+        "tags":
+        [
+          "homelessness",
+          "men",
+          "indiviual",
+          "weekly",
+          "minimum-age",
+          "application",
+          "orientation"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NC Med Assist",
+    "contact":
+    {
+      "address": "601 E 5th Street, Suite 350, Charlotte, NC 28202",
+      "email": "info@medassist.org",
+      "phone": "7045361790",
+      "web": "http://medassist.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/#!/pages/NC-MedAssist/122197377858693",
+      "twitter": "http://twitter.com/NCMedAssist",
+      "youtube": "http://www.youtube.com/ncmedassist"
+    },
+    "tags":
+    [
+      "health-and-wellness"
+    ],
+    "description": "There are more than 167,000 uninsured people in Mecklenburg County. NC MedAssist's mission is to assist these low-income, uninsured North Carolina residents by operating a licensed pharmacy that provides free medications, healthcare advocacy and related educational services.",
+    "opportunities":
+    [
+      {
+        "name": "Over the Counter Give Away Day",
+        "address": "",
+        "description": "Disitributing over the counter medicine to individuals in need.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "health-and-wellness",
+          "donated-goods",
+          "one-time",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Our Towns Habitat For Humanity",
+    "contact":
+    {
+      "address": "20310 North Main Street, Cornelius, NC 28031",
+      "email": "",
+      "phone": "7048968957",
+      "web": "http://www.ourtownshabitat.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/OurTownsHabitatForHumanity",
+      "youtube": "https://www.youtube.com/user/OTHabitat"
+    },
+    "tags":
+    [
+      "homelessness",
+      "donated-goods",
+      "cleaning-and-maintenance"
+    ],
+    "description": "Habitat for Humanity brings people together in partnership to provide safe, decent and affordable housing solutions for families and communities in need.",
+    "opportunities":
+    [
+      {
+        "name": "Construction Volunteers",
+        "address": "Locations Vary - Cornelius, Davidson, Hungersville, Mooresville",
+        "description": "Volunteers will help with construction tasks. Depending on the week, tasks will vary (framing, set trusses, sheath roof, doors & windows, vinyl siding, drywall, painting, interior trim, hardware, and landscaping). Number of volunteers: 1 to 30 (depends on task). Must be at least 16 years old. No one under the age of 16 will be permitted on the building site while work is beingdone(youthages12to15canvolunteerforlandscapingifaccompaniedbyaparentorguardian). Volunteersages12to17 must bring a waiver form signed by a parent/guardian to the jobsite. No one under 18 will be allowed to use power equipment, work on a ladder, the roof or participate in any hazardous activity.",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "indirect",
+          "mornings",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "saturdays",
+          "cleaning-and-maintenance",
+          "minimum-age"
+        ]
+      },
+      {
+        "name": "Office Volunteers",
+        "address": "20310 North Main Street, Cornelius, NC 28031",
+        "description": "Data entry, filing, volunteer hospitality",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "office",
+          "weekday"
+        ]
+      },
+      {
+        "name": "ReStore Volunteers",
+        "address":
+        [
+          "121 Norman Station Blvd., Mooresville, NC",
+          "20414 North Main Street, Cornelius, NC",
+          "1382 A Shelton Avenue, Statesville, NC"
+        ],
+        "description": "Volunteers will help with stocking, registers, and donation drop off. Between the hours of 9am-5pm (Saturday) Minimum age requirement for volunteers (supervised by a parent) is 16 years old",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "minimum-age",
+          "saturdays",
+          "donated-goods"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Safe Alliance - Clyde and Ethel Dickson Domestic Violence Shelter",
+    "contact":
+    {
+      "address": "Confidential Charlotte Location",
+      "email": "",
+      "phone": "7049440169",
+      "web": "http://www.safealliance.org",
+      "volunteer_url": "",
+      "facebook": "http://facebook.com/safealliance",
+      "twitter": "https://twitter.com/safe_alliance"
+    },
+    "tags":
+    [
+      "crisis-support",
+      "employment-and-life-skills"
+    ],
+    "description": "Safe Alliance assists over 12,000 people annually throughout Mecklenburg County and Lake Norman. We also reach thousands more through our educational and prevention programs as well as institutional advocacy efforts.",
+    "opportunities":
+    [
+      {
+        "name": "Kitchen Volunteers",
+        "address": "",
+        "description": "We are looking for help in the kitchen to prepare, serve and clean up from meals. We serve three meals a day to our residents, so lots of teams are needed.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "direct",
+          "weekday",
+          "weekend",
+          "food-preparation",
+          "background-check"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second Harvest Food Bank",
+    "contact":
+    {
+      "address": "500-B Spratt Street, Charlotte, NC 28206",
+      "email": "",
+      "phone": "",
+      "web": "",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "donated-goods",
+      "homelessness",
+      "children-and-teens"
+    ],
+    "description": "Second Harvest Food Bank supplies a network of over 500 nonprofit agencies and churches with food and essential grocery products. These agencies are comprised of emergency pantries, homeless shelters, soup kitchens, group homes for the handicapped, low income day care centers, and other similar programs serving low-income people.",
+    "opportunities":
+    [
+      {
+        "name": "Food Sorting",
+        "address": "500-B Spratt Street, Charlotte, NC 28206",
+        "description": "Volunteers will help sort food and other grocery products to ensure they are ready for distribution to area agencies. As part of the project – you could host a food and/or pet food drive.",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "donated-goods",
+          "weekday",
+          "saturdays"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Supportive Housing Communities",
+    "contact":
+    {
+      "address": "2120 N. Davidson Street, Charlotte, NC 28205",
+      "email": "Linda@aplacetoliveagain.org",
+      "phone": "704-335-9320 Ext. 128",
+      "web": "",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "homelessness"
+    ],
+    "description": "The mission: Supportive Housing Communities (SHC) provides permanent affordable housing to alleviate homelessness and human suffering. We support previously homeless men, women and children permanently at housing three sites.",
+    "opportunities":
+    [
+      {
+        "name": "Provide a Meal (Breakfast, Lunch or Dinner)",
+        "address": "",
+        "description": "Provide meal for 70- 80 people. We have space for meal set up, serving tables, two gas grills for cook out and small kitchen for some prep. Meals must be prepared offsite and delivered for set up or utilize our gas grills for outdoor cook outs. Disposable plates, cups, napkins and utensils are needed.Up to 15 volunteers maximum (Children 12 and older are welcome when accompanied by an adult)",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "indirect",
+          "food-preparation",
+          "weekday",
+          "weekend",
+          "minimum-age"
+        ]
+      },
+      {
+        "name": "In Kind Donation Organization &amp; Inventory",
+        "address": "",
+        "description": "Organize and inventory in kind donation storage closet and assist in donation distribution.",
+        "tags":
+        [
+          "group",
+          "minimum-age",
+          "direct",
+          "indirect",
+          "donated-goods",
+          "weekday",
+          "saturdays"
+        ]
+      },
+      {
+        "name": "Cleaning Day",
+        "address": "",
+        "description": "Come join the residents during spring, fall or winter/holiday cleaning project. Cleaning project may include; cleaning kitchens, sweeping and mopping floors, dusting and light household cleaning. Spring cleaning is in March, fall cleaning is in September and winter cleaning is in early November, prior to holidays; dates to be announced. (4-5 hour volunteer time)",
+        "tags":
+        [
+          "group",
+          "direct",
+          "cleaning-and-maintenance",
+          "minimum-age"
+        ]
+      },
+      {
+        "name": "Community Garden at McCreesh Place",
+        "address": "",
+        "description": "Vegetable garden at McCreesh Place needs spring and fall cleanup and planting. Early spring and late fall; dates to be announced. (2-3 hour volunteer time)",
+        "tags":
+        [
+          "group",
+          "indirect",
+          "cleaning-and-maintenance",
+          "minimum-age",
+          "seasonal"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Relatives",
+    "contact":
+    {
+      "address": "1100 East Blvd, Charlotte, NC 28203",
+      "email": "",
+      "phone": "",
+      "web": "http://www.therelatives.org",
+      "volunteer_url": "",
+      "facebook": "https://www.facebook.com/pages/The-Relatives/126550324047884?ref=ts&fref=ts",
+      "twitter": "http://www.twitter.com/TheRelativesInc",
+      "instagram": "http://instagram.com/the_relatives/"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "children-and-teens",
+      "homelessness",
+      "crisis-support"
+    ],
+    "description": "The Relatives is a system of resources that helps children and youth find shelter and support. The crisis center is a nine bed co-ed shelter for youth in crisis (runaway/homeless) ages 7 – 17.",
+    "opportunities":
+    [
+      {
+        "name": "Dinner with The Relatives",
+        "address": "",
+        "description": "Provide dinner for the youth and staff at the Crisis Center. There are 9 children and 2 staff. You can either drop off dinner, or stay and have dinner with the group.",
+        "tags":
+        [
+          "group",
+          "children-and-teens",
+          "children-and-teens",
+          "direct",
+          "indirect",
+          "food-preparation",
+          "weekday",
+          "weekend"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "YMCA",
+    "contact":
+    {
+      "address": "Various Locations",
+      "email": "",
+      "phone": "",
+      "web": "http://www.ymcacharlotte.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "education",
+      "health-and-wellness",
+      "sports-recreation"
+    ],
+    "description": "The YMCA Mission is to put Christian principles into practice through programs that build healthy spirt, mind and body for all.",
+    "opportunities":
+    [
+      {
+        "name": "Afterschool",
+        "address": "",
+        "description": "Play some of your favorite games, help with homework, or even share a book with a student",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "direct",
+          "children-and-teens",
+          "education",
+          "sports-recreation",
+          "weekday",
+          "afternoons"
+        ]
+      },
+      {
+        "name": "Active Older Adults",
+        "address": "",
+        "description": "Join us as we celebrate our senior adults as they exercise, garden, take field trips, create art during their craft time, hear guest speakers and engage in devotions – or lead a unique group activity.",
+        "tags":
+        [
+          "group",
+          "indiviual",
+          "direct",
+          "seniors",
+          "education",
+          "sports-recreation",
+          "mondays",
+          "tuesdays",
+          "wednesdays",
+          "thursdays",
+          "mornings"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "YWCA Central Carolinas",
+    "contact":
+    {
+      "address": "3420 Park Road Charlotte, NC 28209",
+      "email": "",
+      "phone": "7045255770",
+      "web": "http://www.ywcacentralcarolinas.org",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/pages/YWCA-Central-Carolinas/98034904613",
+      "twitter": "https://twitter.com/YWCAcharlotte",
+      "linkedin": "http://www.linkedin.com/company/ywca-central-carolinas?trk=company_logo",
+      "youtube": "https://www.youtube.com/watch?v=obyG_TyBlXE"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "education",
+      "sports-recreation",
+      "arts-and-crafts"
+    ],
+    "description": "Fifty weeks each year during after school hours, school holidays and during the summer, eleven YWCA Youth Learning Centers open their doors to over 360 youth from at risk communities, ages five to 12. The Youth Learning Centers offer youth a safe, educational and fun environment, with a variety of activities from swimming and storytelling to field trips and arts and crafts.",
+    "opportunities":
+    [
+      {
+        "name": "Youth Learning Center",
+        "address": "",
+        "description": "Volunteer groups will provide up to 25 (30 depending on the center. Two of our centers have up to 45 children.) children with refreshments (of your choice) when they arrive from school, assist with reading, homework, and play games.Takeabook(s)toreadwiththekidsandthenleavethebookbehindfortheircontinuedenjoyment. Thesegroup volunteer activities will be subject to the YLC Coordinator's approval. (Refreshment suggestions: ice cream party, cupcakes & punch, cookies & lemonade, etc.) You could do themed refreshments and/or arts & crafts if your visit coincides with a holiday.",
+        "tags":
+        [
+          "group",
+          "direct",
+          "fridays",
+          "children-and-teens",
+          "direct",
+          "education",
+          "sports-recreation",
+          "arts-and-crafts"
+        ]
+      },
+      {
+        "name": "Be a Bunny Program",
+        "address": "",
+        "description": "The Be A Bunny program is a great way to provide Easter Baskets to children in need in our community. Volunteer groups put together Easter Baskets that include the traditional candy, small games and stuffed animals and also include items that these children need like school supplies, socks, toothbrushes, toothpaste, etc. ",
+        "tags":
+        [
+          "group",
+          "seasonal",
+          "children-and-teens",
+          "direct",
+          "donated-goods"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Communities in School",
+    "contact":
+    {
+      "address": "",
+      "email": "",
+      "phone": "7043350601",
+      "web": "http://www.cischarlotte.org",
+      "volunteer_url": "http://www.cischarlotte.org/volunteer-form",
+      "facebook": "http://www.facebook.com/CISCharlotte",
+      "twitter": "http://twitter.com/cischarlotte"
+    },
+    "tags":
+    [
+      "children-and-teens",
+      "education"
+    ],
+    "description": "The mission of Communities In Schools (CIS) is to surround students with a community of support, empowering them to stay in school and achieve in life.",
+    "opportunities":
+    [
+      {
+        "name": "Mentor/School Buddy",
+        "address": "",
+        "description": "Serve as a student’s role model, motivator, and personal advocate, or simply be a friend during lunch.",
+        "tags":
+        [
+          "indiviual",
+          "direct",
+          "weekly",
+          "children-and-teens",
+          "education",
+          "minimum-age",
+          "afternoons",
+          "interview",
+          "orientation",
+          "background-check",
+          "application"
+        ]
+      },
+      {
+        "name": "Career Coach",
+        "address": "",
+        "description": "Speak about your career experience to a group of students or host a job shadowing field trip.",
+        "tags":
+        [
+          "children-and-teens",
+          "education",
+          "employment-and-life-skills",
+          "employment-and-life-skills",
+          "direct",
+          "minimum-age",
+          "application",
+          "interview",
+          "indiviual"
+        ]
+      },
+      {
+        "name": "School Aid",
+        "address": "",
+        "description": "The School Aide contributes to providing a high quality learning environment through assisting staff with administrative tasks, classroom and/or media center support, or teacher appreciation activities throughout the school year. A School Aide with a particular interest in working with teen parents and pregnant teen girls can also act as a support to CIS Case Managers during the facilitation of group sessions.",
+        "tags":
+        [
+          "children-and-teens",
+          "education",
+          "office",
+          "direct",
+          "indirect",
+          "minimum-age",
+          "interview",
+          "application"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community Link",
+    "contact":
+    {
+      "address": "601 E. 5th Street Suite 220, Charlotte, NC, 28202",
+      "email": "",
+      "phone": "7049439490",
+      "web": "http://communitylinknc.org",
+      "volunteer_url": "",
+      "facebook": "http://www.facebook.com/communitylinknc",
+      "twitter": "https://twitter.com/CommunityLinkNC",
+      "linkedin": "http://www.linkedin.com/company/community-link"
+    },
+    "tags":
+    [
+    ],
+    "description": "Community Link provides programs for individuals and families to obtain and sustain safe, decent, and affordable housing.",
+    "opportunities":
+    [
+      {
+        "name": "Volunteer Tax Aide",
+        "address": "",
+        "description": "Prepare and e-file tax returns for low-to-moderate income wage earners.",
+        "tags":
+        [
+          "employment-and-life-skills",
+          "direct",
+          "seasonal",
+          "training-or-certification",
+          "indiviual"
+        ]
+      },
+      {
+        "name": "Financial Coach",
+        "address": "",
+        "description": "Work with customers in the Homeless to Housing program to help plan and fulfil their financial goals (including debt management, savings, basic money management, budget, and restoring or establishing positive credit) – available placements in Mecklenburg, Rowan, Davidson, Stanley, Union, and Cabarrus Counties.",
+        "tags":
+        [
+          "employment-and-life-skills",
+          "monthly",
+          "direct",
+          "application",
+          "orientation",
+          "indiviual"
+        ]
+      },
+      {
+        "name": "Welcome Crew",
+        "address": "",
+        "description": "Welcome a formerly homeless family to their new home - with a provision of supplies. Perhaps it's a bed and bath basket; children's needs; or just basic household supplies. Groups collect the items for either delivery to Community Link or for their staff to pick up. Items are distributed to their customers.",
+        "tags":
+        [
+          "homelessness",
+          "donated-goods",
+          "direct",
+          "group"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hope Haven",
+    "contact":
+    {
+      "address": "3815 N. Tryon Street, Charlotte, NC 28206",
+      "email": "kdemeritte@hopehaveninc.org",
+      "phone": "704-372-8809×207",
+      "web": "http://www.hopehaveninc.org",
+      "volunteer_url": "http://www.hopehaveninc.org/get-involved/sign-up-to-volunteer/",
+      "facebook": "http://www.facebook.com/profile.php?id=100000033333447&ref=ts",
+      "twitter": "http://www.twitter.com/HopeHavenInc",
+      "instagram": "http://instagram.com/HopeHavenInc",
+      "linkedin": "https://www.linkedin.com/company/1131949"
+    },
+    "tags":
+    [
+      "homelessness",
+      "employment-and-life-skills"
+    ],
+    "description": "Hope Haven, a foundation of recovery, provides life skills for homeless, chemically dependent adults and families within a supportive residential environment, leading to independence.",
+    "opportunities":
+    [
+      {
+        "name": "Apprentice Program Partners/Career Coaches",
+        "address": "",
+        "description": "Provide on the job training experience to a Hope Haven resident and enable them to advance their skills and obtain viable employment. Work with resident to set goals and provide guidance for a successful transition.",
+        "tags":
+        [
+          "individual",
+          "direct",
+          "group",
+          "employment-and-life-skills",
+          "education",
+          "ongoing"
+        ]
+      },
+      {
+        "name": "Childcare / Babysitter",
+        "address": "",
+        "description": "Provide childcare for infant or child on-site in the residential Families Program, while moms/dads attend classes or runs errands.",
+        "tags":
+        [
+          "weekly",
+          "individual",
+          "direct",
+          "evenings",
+          "weekend",
+          "minimum-age",
+          "background-check",
+          "children-and-teens"
+        ]
+      },
+      {
+        "name": "Computer Training/Tutor",
+        "address": "",
+        "description": "Help bridge the digital divide, and work with residents who need improvement and/or knowledge of a specific computer program. Work with residents on GRE prep, class, or college course.",
+        "tags":
+        [
+          "individual",
+          "education",
+          "employment-and-life-skills",
+          "direct",
+          "weekly"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Latin American Coalition",
+    "contact":
+    {
+      "address": "4938 Central Ave. Suite 101, Charlotte, NC 28205",
+      "email": "info@latinamericancoalition.org",
+      "phone": " 704-531-3848",
+      "web": "http://www.latinamericancoalition.org",
+      "volunteer_url": "https://docs.google.com/forms/d/1vejHEzE_ppj9ftr1p8W6an-1pRqUdk2tjiuqcJ3GTsc/viewform",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "education",
+      "employment-and-life-skills"
+    ],
+    "description": "La Coalición is a community of Latin Americans, immigrants and allies that promotes full and equal participation of all people in the civic, economic and cultural life of North Carolina through education, celebration and advocacy.",
+    "opportunities":
+    [
+      {
+        "name": "Women's Advocate",
+        "address": "",
+        "description": "Women’s advocates are court advocates that act as part of a support system for female victims of domestic violence. volunteers operate on an “on call” basis; 6 month commitment required.Fluent in Spanish and English, excellent interpersonal skills, problem",
+        "tags":
+        [
+          "women",
+          "individual",
+          "crisis-support",
+          "spanish",
+          "orientation",
+          "training",
+          "direct",
+          "minimum-age"
+        ]
+      },
+      {
+        "name": "Tax Assistance Interpreter",
+        "address": "",
+        "description": "The Latin American Coalition will provide bilingual services specifically for Spanish speakers who need help filing their taxes.",
+        "tags":
+        [
+          "individual",
+          "seasonal",
+          "direct",
+          "tuesdays",
+          "thursdays",
+          "evenings",
+          "saturdays",
+          "minimum-age"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Salvation Army",
+    "contact":
+    {
+      "address": "",
+      "email": "",
+      "phone": "",
+      "web": "",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+    ],
+    "description": "",
+    "opportunities":
+    [
+      {
+        "name": "Christmas Fill a Stocking Program",
+        "address": "",
+        "description": "Surprise a boy or girl Christmas morning with a stocking filled with goodies. There are hundreds of stockings that need filling. Groups can shop individually or together and then plan a time to fill the stockings – maybe while listening to holiday music or watching your favorite holiday movie. For information call 980-297-0518.",
+        "tags":
+        [
+          "group",
+          "children-and-teens",
+          "indirect",
+          "seasonal",
+          "donated-goods"
+        ]
+      },
+      {
+        "name": "Silver Bells Program",
+        "address": "",
+        "description": "The Silver Bells program helps over 500 senior citizens (age 60+) each year, providing them with needed clothing, shoes, toiletries and other items in which a fixed income cannot provide.",
+        "tags":
+        [
+          "group",
+          "seniors",
+          "indirect",
+          "donated-goods",
+          "seasonal"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Legal Services of Southern Piedmont",
+    "contact":
+    {
+      "address": "1431 Elizabeth Ave., Charlotte, N.C. 28204",
+      "email": "",
+      "phone": "",
+      "web": "http://www.lssp.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+    ],
+    "description": "The mission is to ensure a full measure of justice for those in need. LSSP provides a wide range of civil legal assistance to eligible low-income persons in the Charlotte metropolitan area and west-central N.C.",
+    "opportunities":
+    [
+      {
+        "name": "Pro Bono Attorney",
+        "address": "",
+        "description": "We are always in need of pro bono attorneys who are dedicated to helping us serve more clients in legal crisis.",
+        "tags":
+        [
+          "training-or-certification",
+          "individual",
+          "direct",
+          "employment-and-life-skills"
+        ]
+      },
+      {
+        "name": "Volunteer Navigator",
+        "address": "",
+        "description": "We are seeking volunteers who can offer guidance and assist individuals in signing up for new health insurance plans made available by the Affordable Care Act. This is a great opportunity to be a part of health care reform and help individuals in our community obtain healthcare coverage.",
+        "tags":
+        [
+          "individual",
+          "direct",
+          "health-and-wellness",
+          "employment-and-life-skills"
+        ]
+      },
+      {
+        "name": "Interpreter / Translator",
+        "address": "",
+        "description": "We have ongoing opportunities for translator/interpreters who are fluent in a second language, especially volunteers who are fluent in Spanish.",
+        "tags":
+        [
+          "individual",
+          "spanish",
+          "ongoing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mental Health Association of Central Carolinas",
+    "contact":
+    {
+      "address": "3701 Latrobe Drive, Suite 140, Charlotte, NC 28211",
+      "email": "",
+      "phone": "",
+      "web": "http://www.mhacentralcarolinas.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+    ],
+    "description": "The MHA’s mission is to promote mental wellness through advocacy, prevention, and education in Mecklenburg and Cabarrus Counties. The Compeer program is a socialization program for persons diagnosed with a mental health disorder.",
+    "opportunities":
+    [
+      {
+        "name": "Compeer One-to-One Volunteer",
+        "address": "",
+        "description": "Compeer Friends meet face-to-face with their match twice a month. Many matches go to a movie, have lunch, play sports, or enjoy other social activities.",
+        "tags":
+        [
+          "indiviual",
+          "weekly",
+          "direct",
+          "children-and-teens",
+          "sports-recreation",
+          "application",
+          "interview",
+          "orientation"
+        ]
+      },
+      {
+        "name": "Compeer Callers",
+        "address": "",
+        "description": "Compeer callers make a weekly call to an individual waiting to be matched one-to-one.",
+        "tags":
+        [
+          "indiviual",
+          "weekly",
+          "application",
+          "interview",
+          "orientation",
+          "office"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Metrolina Association for the Blind",
+    "contact":
+    {
+      "address": "704 Louise Ave., Charlotte, NC 28201",
+      "email": "",
+      "phone": "",
+      "web": "http://www.mabnc.org",
+      "volunteer_url": "",
+      "facebook": "",
+      "twitter": ""
+    },
+    "tags":
+    [
+      "health-and-wellness"
+    ],
+    "description": "Metrolina Association for the Blind (MAB) provides rehabilitative services to approximately 1000 people who are visually impaired in Mecklenburg, Union, and Cabarrus Counties.",
+    "opportunities":
+    [
+      {
+        "name": "Volunteer Receptionist",
+        "address": "",
+        "description": "Answering phones, greeting guests, collecting payments, and small on-time jobs to support the therapists.",
+        "tags":
+        [
+          "indiviual",
+          "indirect",
+          "office",
+          "minimum-age",
+          "training-or-certification",
+          "background-check",
+          "drug-screening"
+        ]
+      },
+      {
+        "name": "Volunteer Drivers",
+        "address": "",
+        "description": "Use a seven passenger agency van to drive clients to medical appointments, shopping, rehabilitation training or for access to other community resources. Drivers may be asked to stay with the client to assist with guiding them or shopping.",
+        "tags":
+        [
+          "indirect",
+          "direct",
+          "weekly",
+          "background-check",
+          "drug-screening"
+        ]
+      }
+    ]
+  }
+]

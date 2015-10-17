@@ -18,6 +18,10 @@ Rails.application.routes.draw do
 
     end
 
+    resources :categories, only: [:index, :show]
+    resources :organizations, only: [:index, :show]
+    resources :opportunities, only: [:index, :show]
+
     get "*any", to: "pages#not_found"
   end
 

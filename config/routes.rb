@@ -23,6 +23,7 @@ Rails.application.routes.draw do
     resources :opportunities, only: [:index, :show]
     get '/organizations/:id/opportunities', to: 'organizations#show_opps'
     get '/categories/:id/organizations', to: 'categories#show_orgs'
+    get '/opportunities/match', to: 'opportunities#matches'
 
     get "*any", to: "pages#not_found"
   end

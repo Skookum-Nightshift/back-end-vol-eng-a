@@ -9,18 +9,8 @@ class Api::OpportunitiesController < ApplicationController
     render json: @opportunity
   end
 
-  def finder(tag_ids) #returns array of opportunities that have max number of tag matches
-     matches = {}
-     Opportunity.all.each do |opp|
-       matches[opp.id] = 0
-       opp.tags.each do |tag|
-         matches[opp.id] += 1 if tag_ids.include?(tag.id)
-       end
-     end
-     max = matches.values.max
-     x = Hash[matches.select {|k,v| v == max }]
-     results = []
-     x.each_key {|key| results << Opportunity.find(key)}
-     results
+  def matches(tag_ids)
+    @opportunities = Opportunity.finder(tag_ids)
+    render json: @opportunities
   end
 end

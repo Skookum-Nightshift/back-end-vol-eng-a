@@ -8,4 +8,9 @@ class Api::OrganizationsController < ApplicationController
     @organization = Organization.find(params[:id])
     render json: @organization
   end
+
+  def show_opps
+    @opportunities = Organization.find(params[:id]).opportunities
+    render json: @opportunities
+  end
 end

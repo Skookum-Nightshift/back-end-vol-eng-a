@@ -8,4 +8,9 @@ class Api::CategoriesController < ApplicationController
     @category = Category.find(params[:id])
     render json: @category
   end
+
+  def show_orgs
+    @organizations = Category.find(params[:id]).organizations
+    render json: @organizations
+  end
 end

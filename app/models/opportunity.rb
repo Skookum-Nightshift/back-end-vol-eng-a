@@ -3,7 +3,7 @@ class Opportunity < ActiveRecord::Base
   has_many :tags, through: :taggings
   belongs_to :organization
 
-  def self.finder(tag_ids) #returns array of opportunities that have max number of tag matches
+  def finder(tag_ids) #returns array of opportunities that have max number of tag matches
      matches = {}
      Opportunity.all.each do |opp|
        matches[opp.id] = 0

@@ -1,4 +1,4 @@
-class Api::OpportunitiesController < ApplicationController
+class Api::V1::OpportunitiesController < ApplicationController
   def index
     @opportunities = Opportunity.all
     render json: @opportunities

@@ -1,4 +1,4 @@
-class Api::OpportunitiesController < ApplicationController
+class Api::V1::OpportunitiesController < ApplicationController
   def index
     @opportunities = Opportunity.all
     render json: @opportunities
@@ -7,5 +7,10 @@ class Api::OpportunitiesController < ApplicationController
   def show
     @opportunity = Opportunity.find(params[:id])
     render json: @opportunity
+  end
+
+  def matches(tag_ids)
+    @opportunities = Opportunity.finder(tag_ids)
+    render json: @opportunities
   end
 end

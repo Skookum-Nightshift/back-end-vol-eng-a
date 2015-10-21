@@ -17,4 +17,9 @@ class Api::OpportunitiesController < ApplicationController
     end
     render json: @opportunities
   end
+
+  def matches(tag_ary)
+    @opportunities = find_opps(tag_ary)
+    render json: @opportunities
+  end
 end

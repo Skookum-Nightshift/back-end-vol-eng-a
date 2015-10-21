@@ -23,7 +23,7 @@ gem "rack-rewrite" # server settings
 # gem "sidekiq"
 # gem "stripe"
 gem "validates" # active model validators
-
+gem 'acts-as-taggable-on', '~> 3.4'
 
 # REQUIRED #
 gem "rails", "4.2.3"

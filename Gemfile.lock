@@ -67,6 +67,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
+    acts-as-taggable-on (3.5.0)
+      activerecord (>= 3.2, < 5)
     addressable (2.3.8)
     annotate (2.6.10)
       activerecord (>= 3.2, <= 4.3)
@@ -472,6 +474,7 @@ DEPENDENCIES
   active_model_serializers
   active_skin
   activeadmin!
+  acts-as-taggable-on (~> 3.4)
   annotate
   awesome_print
   better_errors

@@ -168,7 +168,10 @@
     "name": "Big Brothers/Big Sisters",
     "contact":
     {
-      "address": " 3801 E Independence Boulevard, Suite 101, Charlotte, NC 28205",
+      "address": " 3801 E Independence Boulevard, Suite 101",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
       "email": "",
       "phone": "704.910.1301",
       "web": "http://www.bbbscharlotte.org",
@@ -219,6 +222,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7045224970",
       "web": "https://www.salvationarmycarolinas.org/programs/nurture/boys-and-girls-clubs/",
@@ -495,6 +501,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "Park-Admin@mecklenburgcountync.gov",
       "phone": "7043363854",
       "web": "http://charmeck.org/mecklenburg/county/ParkandRec/Pages/Home.aspx",
@@ -534,6 +543,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "9803430474",
       "web": "http://www.cms.k12.nc.us",
@@ -792,6 +804,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7049476842",
       "web": "http://www.sowmuchgood.org",
@@ -1046,7 +1061,10 @@
     "name": "NC Med Assist",
     "contact":
     {
-      "address": "601 E 5th Street, Suite 350, Charlotte, NC 28202",
+      "address": "601 E 5th Street, Suite 350",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
       "email": "info@medassist.org",
       "phone": "7045361790",
       "web": "http://medassist.org",
@@ -1156,7 +1174,10 @@
     "name": "Safe Alliance - Clyde and Ethel Dickson Domestic Violence Shelter",
     "contact":
     {
-      "address": "Confidential Charlotte Location",
+      "address": "Confidential Location",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7049440169",
       "web": "http://www.safealliance.org",
@@ -1356,6 +1377,9 @@
     "contact":
     {
       "address": "Various Locations",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "",
       "web": "http://www.ymcacharlotte.org",
@@ -1473,6 +1497,9 @@
     "contact":
     {
       "address": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7043350601",
       "web": "http://www.cischarlotte.org",
@@ -1737,6 +1764,9 @@
     "contact":
     {
       "address": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "",
       "web": "",

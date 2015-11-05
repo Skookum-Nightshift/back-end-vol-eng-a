@@ -3,7 +3,10 @@
     "name": "A Child’s Place",
     "contact":
     {
-      "address": "601 E. Fifth Street Suite 230 Charlotte, NC 28202",
+      "address": "601 E. Fifth Street Suite 230",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip":  "28202",
       "email": "",
       "phone": "7043433790",
       "web": "http://www.achildsplace.org",
@@ -67,7 +70,7 @@
         "description": "Provide a mentoring friendship for a child. Volunteer comes to school to meet with their assigned “buddy”.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "children-and-teens",
           "direct",
           "weekly",
@@ -82,7 +85,7 @@
         "description": "Assist students with homework, prepare for tests, or help with reading/math skills.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "children-and-teens",
           "education",
           "direct",
@@ -98,7 +101,7 @@
         "description": "Assist teacher with facilitating classroom activities. Responsibilities include tutoring, leading small groups, art projects, checking papers, and other helpful tasks.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "children-and-teens",
           "education",
           "direct",
@@ -114,7 +117,7 @@
         "description": "Transport snacks from the ACP main office to specific CMS school sites.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "indirect",
           "children-and-teens",
           "donated-goods",
@@ -127,7 +130,10 @@
     "name": "Aldersgate",
     "contact":
     {
-      "address": "3800 Shamrock Drive, Charlotte, NC 28215",
+      "address": "3800 Shamrock Drive",
+      "city": "Charlotte",
+      "state":  "NC",
+      "zip": "28215",
       "email": "info@aldersgateccrc.com",
       "phone": "7045327000",
       "web": "http://www.aldersgateccrc.com",
@@ -162,7 +168,10 @@
     "name": "Big Brothers/Big Sisters",
     "contact":
     {
-      "address": " 3801 E Independence Boulevard, Suite 101, Charlotte, NC 28205",
+      "address": " 3801 E Independence Boulevard, Suite 101",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
       "email": "",
       "phone": "704.910.1301",
       "web": "http://www.bbbscharlotte.org",
@@ -183,7 +192,7 @@
         "description": "For a few hours, a couple times a month, you can give a Little the invaluable gift of your friendship. By simply changing their perspective of what the world can offer, you can literally start changing their lives. And sometimes it’s as simple as playing video games, going to a museum, or just hanging out together.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "children-and-teens",
           "education",
@@ -200,7 +209,7 @@
         "tags":
         [
           "indirect",
-          "indiviual",
+          "individual",
           "office",
           "orientation",
           "ongoing"
@@ -213,6 +222,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7045224970",
       "web": "https://www.salvationarmycarolinas.org/programs/nurture/boys-and-girls-clubs/",
@@ -257,7 +269,7 @@
         "description": "Volunteers to mentor children from single parent families to provide one on one friendship in the community based and school based programs. Male volunteers are extremely encouraged to apply in the community based program as the large majority of children are boys.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "weekly",
           "children-and-teens",
@@ -275,7 +287,7 @@
         "description": "Volunteers are needed to assist students ages 5-17 with reading and homework in the afterschool programs.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "weekly",
           "children-and-teens",
@@ -293,7 +305,10 @@
     "name": "Center of Hope (The Salvation Army Carolinas)",
     "contact":
     {
-      "address": "534 Spratt Street, Charlotte, NC 28206",
+      "address": "534 Spratt Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206",
       "email": "sarah.gamble@uss.salvationarmy.org",
       "phone": "7043482560",
       "web": "https://www.salvationarmycarolinas.org/charlotte/programs/homeless-services/",
@@ -342,7 +357,7 @@
         "description": "We are in need of volunteers to help care for the children between the hours of 9-12, Monday-Friday. The extra assistance in the classroom will give more moms the chance to take advantage of the various services offered at the Center of Hope and provide a safe and fun environment for their little ones!",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "ongoing",
           "children-and-teens",
@@ -367,7 +382,7 @@
           "thursdays",
           "evenings",
           "weekly",
-          "indiviual",
+          "individual",
           "application",
           "orientation",
           "background-check"
@@ -379,7 +394,7 @@
         "description": "Show Up For Life program is on the look-out for relatable and caring guest speakers who can share job readiness skills with the class. Such topics might include: interview skills, goal-setting, resume building, dressing for success, etiquette, etc. Show Up For Life takes place Monday-Thursday in the mornings on a four week cycle.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "one-time",
           "mondays",
           "tuesdays",
@@ -396,7 +411,10 @@
     "name": "Charlotte Family Housing",
     "contact":
     {
-      "address": "300 Hawthorne Lane, Charlotte, NC 28204",
+      "address": "300 Hawthorne Lane",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28204",
       "email": "",
       "phone": "7043355488",
       "web": "https://www.charlottefamilyhousing.org",
@@ -483,6 +501,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "Park-Admin@mecklenburgcountync.gov",
       "phone": "7043363854",
       "web": "http://charmeck.org/mecklenburg/county/ParkandRec/Pages/Home.aspx",
@@ -522,6 +543,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "9803430474",
       "web": "http://www.cms.k12.nc.us",
@@ -580,7 +604,10 @@
     "name": "Crisis Assistance Ministry",
     "contact":
     {
-      "address": "500-A Spratt Street, Charlotte, NC 28206",
+      "address": "500-A Spratt Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206",
       "email": "ckirby@crisisassistance.org",
       "phone": "7043713001",
       "web": "http://www.crisisassistance.org/",
@@ -605,7 +632,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "indirect",
           "tuesdays",
           "wednesdays",
@@ -662,7 +689,7 @@
         "description": "Help donors in the Donation Drive-Thru by receiving donations and sharing genuine appreciation for material goods donations for the Free Store.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "indirect",
           "tuesdays",
           "wednesdays",
@@ -680,7 +707,7 @@
         "description": "Assist customers with picking out furniture items and will be trained to answer customer and community phone inquiries.",
         "tags":
          [
-          "indiviual",
+          "individual",
           "direct",
           "tuesdays",
           "wednesdays",
@@ -698,7 +725,7 @@
         "description": "Help once a week, once a month or “on-call” to pick up donations from individuals and businesses in the community. Volunteers who have their own truck are especially needed, though volunteers are also needed to ride on agency trucks.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "indirect",
           "donated-goods",
           "weekday",
@@ -713,7 +740,10 @@
     "name": "Classroom Central",
     "contact":
     {
-      "address": "2116 Wilkinson Boulevard, Charlotte, NC 28208",
+      "address": "2116 Wilkinson Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28208",
       "email": "risa@classroomcentral.org",
       "phone": "7043771740",
       "web": "http://www.classroomcentral.org",
@@ -774,6 +804,9 @@
     "contact":
     {
       "address": "Locations Vary",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7049476842",
       "web": "http://www.sowmuchgood.org",
@@ -812,7 +845,10 @@
     "name": "Friendship Trays/Gardens",
     "contact":
     {
-      "address": "2401-A Distribution Street, Charlotte, NC 28203",
+      "address": "2401-A Distribution Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28203",
       "email": "",
       "phone": "7043339229",
       "web": "friendshiptrays.org",
@@ -870,7 +906,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "one-time",
           "ongoing",
           "direct",
@@ -885,7 +921,10 @@
     "name": "Love INC",
     "contact":
     {
-      "address": "2633 Eastway Drive, Charlotte, NC  28205",
+      "address": "2633 Eastway Drive",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
       "email": "information@loveinc-charlotte.org",
       "phone": "7045365588",
       "web": "https://www.loveinc-charlotte.org",
@@ -936,7 +975,10 @@
     "name": "Men's Shelter of Charlotte",
     "contact":
     {
-      "address": "1210 N. Tryon Street, Charlotte, NC 28206-3256",
+      "address": "1210 N. Tryon Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206-3256",
       "email": "Holly.Minter@MensShelterofCharlotte.org",
       "phone": "7043343187",
       "web": "http://www.mensshelterofcharlotte.org",
@@ -975,7 +1017,7 @@
         "tags":
         [
           "men",
-          "indiviual",
+          "individual",
           "direct",
           "homelessness",
           "minimum-age",
@@ -989,7 +1031,7 @@
         "description": "Support our staff by assisting with guest check-in, answering phones, distributing towels and sheets, etc.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "homelessness",
           "men",
@@ -1006,7 +1048,7 @@
         [
           "homelessness",
           "men",
-          "indiviual",
+          "individual",
           "weekly",
           "minimum-age",
           "application",
@@ -1019,7 +1061,10 @@
     "name": "NC Med Assist",
     "contact":
     {
-      "address": "601 E 5th Street, Suite 350, Charlotte, NC 28202",
+      "address": "601 E 5th Street, Suite 350",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
       "email": "info@medassist.org",
       "phone": "7045361790",
       "web": "http://medassist.org",
@@ -1055,7 +1100,10 @@
     "name": "Our Towns Habitat For Humanity",
     "contact":
     {
-      "address": "20310 North Main Street, Cornelius, NC 28031",
+      "address": "20310 North Main Street",
+      "city": "Cornelius",
+      "state": "NC",
+      "zip": "28031",
       "email": "",
       "phone": "7048968957",
       "web": "http://www.ourtownshabitat.org",
@@ -1079,7 +1127,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "indirect",
           "mornings",
           "tuesdays",
@@ -1097,7 +1145,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "office",
           "weekday"
         ]
@@ -1114,7 +1162,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "minimum-age",
           "saturdays",
           "donated-goods"
@@ -1126,7 +1174,10 @@
     "name": "Safe Alliance - Clyde and Ethel Dickson Domestic Violence Shelter",
     "contact":
     {
-      "address": "Confidential Charlotte Location",
+      "address": "Confidential Location",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7049440169",
       "web": "http://www.safealliance.org",
@@ -1163,7 +1214,10 @@
     "name": "Second Harvest Food Bank",
     "contact":
     {
-      "address": "500-B Spratt Street, Charlotte, NC 28206",
+      "address": "500-B Spratt Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206",
       "email": "",
       "phone": "",
       "web": "",
@@ -1199,7 +1253,10 @@
     "name": "Supportive Housing Communities",
     "contact":
     {
-      "address": "2120 N. Davidson Street, Charlotte, NC 28205",
+      "address": "2120 N. Davidson Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
       "email": "Linda@aplacetoliveagain.org",
       "phone": "704-335-9320 Ext. 128",
       "web": "",
@@ -1221,7 +1278,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "indirect",
           "food-preparation",
           "weekday",
@@ -1275,7 +1332,10 @@
     "name": "The Relatives",
     "contact":
     {
-      "address": "1100 East Blvd, Charlotte, NC 28203",
+      "address": "1100 East Blvd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28203",
       "email": "",
       "phone": "",
       "web": "http://www.therelatives.org",
@@ -1317,6 +1377,9 @@
     "contact":
     {
       "address": "Various Locations",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "",
       "web": "http://www.ymcacharlotte.org",
@@ -1341,7 +1404,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "direct",
           "children-and-teens",
           "education",
@@ -1357,7 +1420,7 @@
         "tags":
         [
           "group",
-          "indiviual",
+          "individual",
           "direct",
           "seniors",
           "education",
@@ -1375,7 +1438,10 @@
     "name": "YWCA Central Carolinas",
     "contact":
     {
-      "address": "3420 Park Road Charlotte, NC 28209",
+      "address": "3420 Park Road",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28209",
       "email": "",
       "phone": "7045255770",
       "web": "http://www.ywcacentralcarolinas.org",
@@ -1431,6 +1497,9 @@
     "contact":
     {
       "address": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "7043350601",
       "web": "http://www.cischarlotte.org",
@@ -1452,7 +1521,7 @@
         "description": "Serve as a student’s role model, motivator, and personal advocate, or simply be a friend during lunch.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "direct",
           "weekly",
           "children-and-teens",
@@ -1479,7 +1548,7 @@
           "minimum-age",
           "application",
           "interview",
-          "indiviual"
+          "individual"
         ]
       },
       {
@@ -1504,7 +1573,10 @@
     "name": "Community Link",
     "contact":
     {
-      "address": "601 E. 5th Street Suite 220, Charlotte, NC, 28202",
+      "address": "601 E. 5th Street Suite 220",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28202",
       "email": "",
       "phone": "7049439490",
       "web": "http://communitylinknc.org",
@@ -1529,7 +1601,7 @@
           "direct",
           "seasonal",
           "training-or-certification",
-          "indiviual"
+          "individual"
         ]
       },
       {
@@ -1543,7 +1615,7 @@
           "direct",
           "application",
           "orientation",
-          "indiviual"
+          "individual"
         ]
       },
       {
@@ -1564,7 +1636,10 @@
     "name": "Hope Haven",
     "contact":
     {
-      "address": "3815 N. Tryon Street, Charlotte, NC 28206",
+      "address": "3815 N. Tryon Street",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28206",
       "email": "kdemeritte@hopehaveninc.org",
       "phone": "704-372-8809×207",
       "web": "http://www.hopehaveninc.org",
@@ -1631,7 +1706,10 @@
     "name": "Latin American Coalition",
     "contact":
     {
-      "address": "4938 Central Ave. Suite 101, Charlotte, NC 28205",
+      "address": "4938 Central Ave. Suite 101",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28205",
       "email": "info@latinamericancoalition.org",
       "phone": " 704-531-3848",
       "web": "http://www.latinamericancoalition.org",
@@ -1686,6 +1764,9 @@
     "contact":
     {
       "address": "",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
       "email": "",
       "phone": "",
       "web": "",
@@ -1731,7 +1812,10 @@
     "name": "Legal Services of Southern Piedmont",
     "contact":
     {
-      "address": "1431 Elizabeth Ave., Charlotte, N.C. 28204",
+      "address": "1431 Elizabeth Ave.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28204",
       "email": "",
       "phone": "",
       "web": "http://www.lssp.org",
@@ -1786,7 +1870,10 @@
     "name": "Mental Health Association of Central Carolinas",
     "contact":
     {
-      "address": "3701 Latrobe Drive, Suite 140, Charlotte, NC 28211",
+      "address": "3701 Latrobe Drive, Suite 140",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28211",
       "email": "",
       "phone": "",
       "web": "http://www.mhacentralcarolinas.org",
@@ -1806,7 +1893,7 @@
         "description": "Compeer Friends meet face-to-face with their match twice a month. Many matches go to a movie, have lunch, play sports, or enjoy other social activities.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "weekly",
           "direct",
           "children-and-teens",
@@ -1822,7 +1909,7 @@
         "description": "Compeer callers make a weekly call to an individual waiting to be matched one-to-one.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "weekly",
           "application",
           "interview",
@@ -1836,7 +1923,10 @@
     "name": "Metrolina Association for the Blind",
     "contact":
     {
-      "address": "704 Louise Ave., Charlotte, NC 28201",
+      "address": "704 Louise Ave.",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28201",
       "email": "",
       "phone": "",
       "web": "http://www.mabnc.org",
@@ -1857,7 +1947,7 @@
         "description": "Answering phones, greeting guests, collecting payments, and small on-time jobs to support the therapists.",
         "tags":
         [
-          "indiviual",
+          "individual",
           "indirect",
           "office",
           "minimum-age",

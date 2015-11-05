@@ -3,6 +3,9 @@ class CreateOrganizations < ActiveRecord::Migration
     create_table :organizations do |t|
       t.string :name
       t.string :address
+      t.string :state
+      t.string :city
+      t.string :zip
       t.string :email
       t.string :web
       t.string :volunteer_url

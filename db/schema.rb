@@ -71,6 +71,9 @@ ActiveRecord::Schema.define(version: 20151020221628) do
   create_table "organizations", force: :cascade do |t|
     t.string   "name"
     t.string   "address"
+    t.string   "state"
+    t.string   "city"
+    t.string   "zip"
     t.string   "email"
     t.string   "web"
     t.string   "volunteer_url"

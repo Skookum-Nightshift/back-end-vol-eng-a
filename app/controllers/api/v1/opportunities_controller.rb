@@ -1,4 +1,6 @@
 class Api::V1::OpportunitiesController < ApplicationController
+  skip_before_action :verify_authenticity_token
+  
   def index
     @opportunities = Opportunity.all
     render json: @opportunities

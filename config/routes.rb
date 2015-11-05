@@ -17,7 +17,7 @@ Rails.application.routes.draw do
       end
 
     get '/opportunities/:tag', to: 'opportunities#tagged'
-    get '/matches', to: 'opportunities#matches'
+    post '/matches', to: 'opportunities#matches'
     resources :categories, only: [:index, :show]
     resources :organizations, only: [:index, :show]
     resources :opportunities, only: [:index, :show]

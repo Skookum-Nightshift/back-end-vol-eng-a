@@ -19,7 +19,7 @@ class Api::V1::OpportunitiesController < ApplicationController
   end
 
   def matches
-    @opportunities = find_opps(params[:tags])
+    @opportunities = Opportunity.find_opps(params[:tags])
     render json: @opportunities
   end
 end

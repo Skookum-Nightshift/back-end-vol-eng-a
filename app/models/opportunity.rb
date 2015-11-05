@@ -3,6 +3,6 @@ class Opportunity < ActiveRecord::Base
   belongs_to :organization
 
   def self.find_opps(tag_ary)
-    Opportunity.tagged_with(tag_ary, :match_any => true)
+    Opportunity.tagged_with(tag_ary, any: true)
   end
 end

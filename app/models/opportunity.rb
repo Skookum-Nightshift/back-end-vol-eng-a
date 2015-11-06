@@ -12,6 +12,10 @@ class Opportunity < ActiveRecord::Base
     most_idx = tag if hsh[most_idx].nil? || hsh[tag].size > hsh[most_idx].size 
     hsh
   end
-      Opportunity.tagged_with(groups[most_idx], any: true).first(6)
+
+   newArray = groups[most_idx]
+   newArray.push(tag_ary[0])
+
+      Opportunity.tagged_with(newArray, any: true).first(6)
     end
 end

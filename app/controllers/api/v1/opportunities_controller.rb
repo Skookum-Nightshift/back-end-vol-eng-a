@@ -22,6 +22,6 @@ class Api::V1::OpportunitiesController < ApplicationController
 
   def matches
     @opportunities = Opportunity.find_opps(params[:tags])
-    render json: @opportunities
+    render json: @opportunities, each_serializer: Api::V1::OpportunitySerializer, root: nil
   end
 end

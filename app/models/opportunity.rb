@@ -14,7 +14,7 @@ class Opportunity < ActiveRecord::Base
   end
 
    newArray = groups[most_idx]
-   newArray.push(tag_ary[0])
+   newArray.push(tag_ary[6])
 
       Opportunity.tagged_with(newArray, any: true).first(6)
     end

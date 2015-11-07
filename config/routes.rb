@@ -16,11 +16,11 @@ Rails.application.routes.draw do
         post "/password", to: "users#update_password"
       end
 
-    get '/opportunities/:tag', to: 'opportunities#tagged'
     post '/matches', to: 'opportunities#matches'
     resources :categories, only: [:index, :show]
     resources :organizations, only: [:index, :show]
     resources :opportunities, only: [:index, :show]
+    get '/opportunities/:tag', to: 'opportunities#tagged'
     get '/organizations/:id/opportunities', to: 'organizations#show_opps'
     get '/categories/:id/organizations', to: 'organizations#show_orgs'
 

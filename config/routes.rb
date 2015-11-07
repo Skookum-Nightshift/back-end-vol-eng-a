@@ -20,7 +20,7 @@ Rails.application.routes.draw do
     resources :categories, only: [:index, :show]
     resources :organizations, only: [:index, :show]
     resources :opportunities, only: [:index, :show]
-    get '/opportunities/:tag', to: 'opportunities#tagged'
+    get '/opportunities/tagged/:tag', to: 'opportunities#tagged'
     get '/organizations/:id/opportunities', to: 'organizations#show_opps'
     get '/categories/:id/organizations', to: 'organizations#show_orgs'
 

@@ -22,6 +22,7 @@ dump.rdb
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-
+.ev
+.gitignore
 .DS_Store
 .ev

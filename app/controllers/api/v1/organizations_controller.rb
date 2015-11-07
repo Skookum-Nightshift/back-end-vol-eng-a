@@ -13,4 +13,9 @@ class Api::V1::OrganizationsController < ApplicationController
     @opportunities = Organization.find(params[:id]).opportunities
     render json: @opportunities
   end
+
+  def show_orgs
+    @organizations = Category.find(params[:id]).organizations
+    render json: @organizations
+  end
 end

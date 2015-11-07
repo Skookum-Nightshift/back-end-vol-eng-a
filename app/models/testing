@@ -1,0 +1,41 @@
+class Opportunity < ActiveRecord::Base
+  acts_as_taggable_on :tags
+  belongs_to :organization
+
+  def self.find_opps(tag_ary)
+    var bcheck = -1
+    bcheck = tag_ary.index("background-check")
+
+    var Spanish = -1
+    spanish = tag_ary.index("Spanish")
+
+
+    var orientation = -1
+    orientation = tag_ary.index("orientation")
+
+    var addlOpt = [orientation,spanish,bcheck]
+
+    addlOpt.each do |el|
+        if(el < 0)
+          addlOpt.delete(el)
+        end
+    end
+
+
+
+
+
+    most_idx = nil
+
+    groups = tag_ary.inject({}) do |hsh, tag|
+    hsh[tag] = [] if hsh[tag].nil?
+    hsh[tag] << tag
+
+    most_idx = tag if hsh[most_idx].nil? || hsh[tag].size > hsh[most_idx].size 
+    hsh
+
+    most_idx.push(addlOpt)
+  endop
+      Opportunity.tagged_with(groups[most_idx], any: true).first(6)
+    end
+end

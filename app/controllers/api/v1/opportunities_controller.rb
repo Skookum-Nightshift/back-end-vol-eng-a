@@ -1,4 +1,6 @@
 class Api::V1::OpportunitiesController < ApplicationController
+  skip_before_action :verify_authenticity_token
+  
   def index
     @opportunities = Opportunity.all
     render json: @opportunities
@@ -18,8 +20,8 @@ class Api::V1::OpportunitiesController < ApplicationController
     render json: @opportunities
   end
 
-  def matches(tag_ary)
-    @opportunities = find_opps(tag_ary)
-    render json: @opportunities
+  def matches
+    @opportunities = Opportunity.find_opps(params[:tags])
+    render json: @opportunities, each_serializer: Api::V1::OpportunitySerializer, root: nil
   end
 end

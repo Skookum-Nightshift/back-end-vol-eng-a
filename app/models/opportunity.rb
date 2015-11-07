@@ -3,15 +3,7 @@ class Opportunity < ActiveRecord::Base
   belongs_to :organization
 
   def self.find_opps(tag_ary)
-    most_idx = nil
-
-    groups = tag_ary.inject({}) do |hsh, tag|
-    hsh[tag] = [] if hsh[tag].nil?
-    hsh[tag] << tag
-
-    most_idx = tag if hsh[most_idx].nil? || hsh[tag].size > hsh[most_idx].size 
-    hsh
-  end
-      Opportunity.tagged_with(groups[most_idx], any: true).first(6)
+   
+      Opportunity.tagged_with(tag_ary, any: true).shuffle
     end
 end

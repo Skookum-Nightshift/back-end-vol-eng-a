@@ -1,6 +1,6 @@
 class Api::V1::OpportunitySerializer < ActiveModel::Serializer
 
-  attributes :opportunity_id, :name, :address, :description, :organization
+  attributes :opportunity_id, :name, :address, :description, :organization, :tags
 
   def opportunity_id
     object.id

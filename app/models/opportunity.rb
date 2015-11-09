@@ -10,7 +10,7 @@ class Opportunity < ActiveRecord::Base
 
   		byOppId = Opportunity.tagged_with(tag_ary, any: true).find_each do |opportunity|
  			opportunity.tags.find_each do |tag|   
-     			if(tag.name == "education" || tag.name == "children-and-teens" )     
+     			if(tag.name == "education" || tag.name == "children-and-teens" || tag.name == "background-check" )     
     				idList.push(opportunity.id)      
      				break      
     			end  

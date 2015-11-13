@@ -1,5 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Organization, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  it "should be true" do
+    expect(true).to_be true
+  end
 end

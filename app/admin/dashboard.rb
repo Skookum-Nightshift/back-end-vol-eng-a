@@ -3,13 +3,6 @@ ActiveAdmin.register_page "Dashboard" do
   menu priority: 1, label: proc{ I18n.t("active_admin.dashboard") }
 
   content title: proc{ I18n.t("active_admin.dashboard") } do
-    div class: "blank_slate_container", id: "dashboard_default_message" do
-      span class: "blank_slate" do
-        span I18n.t("active_admin.dashboard_welcome.welcome")
-        small I18n.t("active_admin.dashboard_welcome.call_to_action")
-      end
-    end
-
     columns do
       column do
         panel "Most Recent Connections" do
@@ -21,7 +14,16 @@ ActiveAdmin.register_page "Dashboard" do
           link_to "View All Connections", admin_connections_path
         end
         panel "Organizations" do
-          link_to "Add New Organiztion", new_admin_organization_path
+          ul do
+            li link_to "View All Organizations", admin_organizations_path
+            li link_to "Add New Organiztion", new_admin_organization_path
+          end
+        end
+        panel "Opportunities" do
+          ul do
+            li link_to "View All Opportunitites", admin_opportunities_path
+            li link_to "Add New Opportunity", new_admin_opportunity_path
+          end
         end
       end
     end

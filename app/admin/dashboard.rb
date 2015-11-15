@@ -10,6 +10,18 @@ ActiveAdmin.register_page "Dashboard" do
       end
     end
 
+    columns do
+      column do
+        panel "Connections" do
+          ul do
+            Connection.all.map do |connection|
+              li link_to(connection.organization_name, admin_connection_path(connection))
+            end
+          end
+        end
+      end
+    end
+
     # Here is an example of a simple dashboard with columns and panels.
     #
     # columns do

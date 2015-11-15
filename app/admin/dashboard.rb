@@ -12,12 +12,16 @@ ActiveAdmin.register_page "Dashboard" do
 
     columns do
       column do
-        panel "Connections" do
+        panel "Most Recent Connections" do
           ul do
-            Connection.all.map do |connection|
+            Connection.last(5).map do |connection|
               li link_to(connection.organization_name, admin_connection_path(connection))
             end
           end
+          link_to "View All Connections", admin_connections_path
+        end
+        panel "Organizations" do
+          link_to "Add New Organiztion", new_admin_organization_path
         end
       end
     end

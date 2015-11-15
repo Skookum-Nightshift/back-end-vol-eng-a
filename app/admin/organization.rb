@@ -17,9 +17,9 @@ form do |f|
     f.input :twitter
     f.input :youtube
     f.input :description
-    f.has_many :categories, allow_destroy: true, new_record: "category " do |a|
-      a.input :name
-    end
+    f.input :categories, :as => :select,
+                             :multiple => :true,
+                             :collection => Category.all
   end
   f.actions
 end

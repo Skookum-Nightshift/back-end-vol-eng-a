@@ -7,6 +7,6 @@ class Api::V1::ConnectionsController < API::V1::BaseController
   private
 
   def connection_params
-    params.require(:connection).permit(:firstname, :lastname, :email, :zipcode, :opportunity_id, :organization_id)
+    params.require(:connection).permit(:firstname, :lastname, :email, :zipcode, :opportunity_id, :organization_id, :organization_name, :opportunity_name)
   end
 end

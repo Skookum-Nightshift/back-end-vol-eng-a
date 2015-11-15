@@ -17,3 +17,35 @@ data.each do |org|
     x.opportunities << y
   end
 end
+
+Category.find(1).update_attributes(icon: "public/icons/children.svg")
+
+Category.find(2).update_attributes(icon: "public/icons/lifeSkills.svg")
+
+Category.find(3).update_attributes(icon: "public/icons/education.svg")
+
+Category.find(4).update_attributes(icon: "public/icons/seniors.svg")
+
+Category.find(5).update_attributes(icon: "public/icons/arts.svg")
+
+Category.find(6).update_attributes(icon: "public/icons/healthCare.svg")
+
+Category.find(7).update_attributes(icon: "public/icons/employment.svg")
+
+Category.find(8).update_attributes(icon: "public/icons/sportsAndRec.svg")
+
+Category.find(9).update_attributes(icon: "public/icons/crisis.svg")
+
+Category.find(10).update_attributes(icon: "public/icons/women.svg")
+
+Category.find(11).update_attributes(icon: "public/icons/cleaning.svg")
+
+Category.find(12).update_attributes(icon: "public/icons/foodPrep.svg")
+
+Category.find(13).update_attributes(icon: "public/icons/seniors.svg")
+
+Category.find(14).update_attributes(icon: "public/icons/donations.svg")
+
+
+
+

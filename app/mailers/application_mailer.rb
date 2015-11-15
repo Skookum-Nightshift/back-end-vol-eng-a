@@ -1,10 +1,9 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "Hasten <no-reply@hasten.io>"
+  default from: "Hasten <no-reply@hasten.io>", to: "UWAspires@gmail.com"
 
   def welcome_email(params)
-    @url  = "http://example.com/login"
     @firsname = params[:firstname]
-    mail(to: params[:email], subject: "Welcome to My Awesome Site")
+    mail(to: params[:email], subject: "Thanks for Connectiong!")
   end
 
 end

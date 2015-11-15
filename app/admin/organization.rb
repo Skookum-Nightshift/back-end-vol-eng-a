@@ -17,6 +17,9 @@ form do |f|
     f.input :twitter
     f.input :youtube
     f.input :description
+    panel "" do
+       "Hold command and click each category for multiple categories"
+     end
     f.input :categories, :as => :select,
                              :multiple => :true,
                              :collection => Category.all

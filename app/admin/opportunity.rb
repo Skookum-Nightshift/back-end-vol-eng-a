@@ -8,6 +8,9 @@ form do |f|
     f.input :name
     f.input :address
     f.input :description
+    panel "" do
+      "Hold command and click each tag for multiple tags"
+    end
     f.input :tag_list, :as => :select,
                              :multiple => :true,
                              :collection => ActsAsTaggableOn::Tag.all

@@ -15,7 +15,7 @@ Rails.application.routes.draw do
         post "/", to: "users#update"
         post "/password", to: "users#update_password"
       end
-
+    post '/connection', to: 'connections#create'
     post '/matches', to: 'opportunities#matches'
     resources :categories, only: [:index, :show]
     resources :organizations, only: [:index, :show]

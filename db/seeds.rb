@@ -26,7 +26,7 @@ Category.find(3).update_attributes(icon: "public/icons/education.svg")
 
 Category.find(4).update_attributes(icon: "public/icons/seniors.svg")
 
-Category.find(5).update_attributes(icon: "public/icons/healthcare.svg")
+Category.find(5).update_attributes(icon: "public/icons/healthAndWellness.svg")
 
 Category.find(6).update_attributes(icon: "public/icons/employment.svg")
 

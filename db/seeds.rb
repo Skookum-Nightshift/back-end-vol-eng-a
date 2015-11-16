@@ -26,26 +26,29 @@ Category.find(3).update_attributes(icon: "public/icons/education.svg")
 
 Category.find(4).update_attributes(icon: "public/icons/seniors.svg")
 
-Category.find(5).update_attributes(icon: "public/icons/arts.svg")
+Category.find(5).update_attributes(icon: "public/icons/healthcare.svg")
 
-Category.find(6).update_attributes(icon: "public/icons/healthCare.svg")
+Category.find(6).update_attributes(icon: "public/icons/employment.svg")
 
-Category.find(7).update_attributes(icon: "public/icons/employment.svg")
+Category.find(7).update_attributes(icon: "public/icons/sportsAndRec.svg")
 
-Category.find(8).update_attributes(icon: "public/icons/sportsAndRec.svg")
+Category.find(8).update_attributes(icon: "public/icons/crisis.svg")
 
-Category.find(9).update_attributes(icon: "public/icons/crisis.svg")
+Category.find(9).update_attributes(icon: "public/icons/women.svg")
 
-Category.find(10).update_attributes(icon: "public/icons/women.svg")
+Category.find(10).update_attributes(icon: "public/icons/foodPrep.svg")
 
-Category.find(11).update_attributes(icon: "public/icons/cleaning.svg")
+Category.find(11).update_attributes(icon: "public/icons/religious.svg")
 
-Category.find(12).update_attributes(icon: "public/icons/foodPrep.svg")
+Category.find(12).update_attributes(icon: "public/icons/medicalSupport.svg")
 
-Category.find(13).update_attributes(icon: "public/icons/seniors.svg")
+Category.find(13).update_attributes(icon: "public/icons/donationedGoods.svg")
 
-Category.find(14).update_attributes(icon: "public/icons/donations.svg")
+Category.find(14).update_attributes(icon: "public/icons/domesticViolence.svg")
 
+Category.find(15).update_attributes(icon: "public/icons/legalAid.svg")
+
+Category.find(16).update_attributes(icon: "public/icons/disabilities.svg")
 
 
 

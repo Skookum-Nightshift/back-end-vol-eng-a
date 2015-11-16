@@ -27,6 +27,14 @@ form do |f|
   f.actions
 end
 
+index do
+  selectable_column
+  column :name
+  column :zip
+  column :email
+  column :description
+end
+
 # See permitted parameters documentation:
 # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
 #

@@ -20,7 +20,7 @@ index do
   column :zipcode
   column :organization_name
   column :opportunity_name
-
+  actions
 end
 
 end

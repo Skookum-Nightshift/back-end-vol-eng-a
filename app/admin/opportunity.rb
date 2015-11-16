@@ -23,6 +23,7 @@ index do
   column :name
   column :organization
   column :description
+  actions
 end
 
 # See permitted parameters documentation:

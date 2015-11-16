@@ -16,6 +16,7 @@ index do
   selectable_column
   column :name
   column :icon
+  actions
 end
 
 end

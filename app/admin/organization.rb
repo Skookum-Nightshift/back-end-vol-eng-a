@@ -33,6 +33,7 @@ index do
   column :zip
   column :email
   column :description
+  actions
 end
 
 # See permitted parameters documentation:

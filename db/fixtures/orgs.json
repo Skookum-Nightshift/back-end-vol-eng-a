@@ -17,9 +17,9 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "homelessness",
-      "education"
+      "Children and Teens",
+      "Housing and Financial Stability",
+      "Education",
     ],
     "description": "There are more than 4,000 homeless children in CMS. A Child’s Place works to erase the impact of homelessness on children and their education. By providing educational and emotional support as well as medical referrals, children are able to stay in the classroom.",
     "opportunities":
@@ -30,12 +30,12 @@
         "description": "Compile snack bags for children. Each snack pack will include 3 items: juice (prefer 100% juice boxes, but capri suns are also great), carb (crackers, granola, bars, breakfast bars, etc.), fruit (fruit cup, applesauce, fruit snacks). Bags should be lunch size brown bags.",
         "tags":
         [
-          "indirect",
-          "group",
-          "food-preparation",
-          "homelessness",
-          "ongoing",
-          "one-time"
+        "indirect",
+        "group",
+        "Food Preparation",
+        "Housing and Financial Stability",
+        "ongoing",
+        "one-time",
         ]
       },
       {
@@ -67,7 +67,7 @@
       {
         "name": "Lunch or Breakfast Buddy",
         "address": "Various Locations",
-        "description": "Provide a mentoring friendship for a child. Volunteer comes to school to meet with their assigned “buddy”.",
+        "description": "Provide a mentoring friendship for a child. Volunteer comes to school to meet with their assigned "buddy".",
         "tags":
         [
           "individual",
@@ -182,6 +182,7 @@
     },
     "categories":
     [
+    "children-and-teens", "education"
     ],
     "description": "The Big Brothers Big Sisters mission is to provide children facing adversity with strong and enduring, professionally supported 1-to-1 relationships that change their lives for the better, forever.",
     "opportunities":
@@ -218,7 +219,7 @@
     ]
   },
   {
-    "name": "Boys &amp; Girls Club (The Salvation Army Carolinas)",
+    "name": "Boys & Girls Club (The Salvation Army Carolinas)",
     "contact":
     {
       "address": "Locations Vary",
@@ -235,12 +236,11 @@
     },
     "categories":
     [
-      "arts-and-crafts",
-      "children-and-teens",
-      "education",
-      "health-and-wellness",
-      "employment-and-life-skills",
-      "sports-recreation"
+      "Children and Teens",
+      "Education",
+      "Health and Wellness",
+      "Employment and Life Skills",
+      "Sports and Recreation"
     ],
     "description": "The Boys & Girls Club provides a positive and safe environment for disadvantaged children after school and during the summer months.",
     "opportunities":
@@ -319,9 +319,9 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "crisis-support",
-      "homelessness",
+      "Children and Teens",
+      "Crisis Support",
+      "Housing and Financial Stability",
       "women"
     ],
     "description": "Charlotte’s only 24/7 year-round emergency shelter for women and children. The Center of Hope has 280 beds and routinely operates at capacity. The Center of Hope is the largest such shelter in the Southeast, the Center of Hope offers a comprehensive program of on-site services, including the nation’s only Boys & Girls Club within a homeless shelter.",
@@ -401,7 +401,6 @@
           "wednesdays",
           "thursdays",
           "mornings",
-          "employment-and-life-skills",
           "employment-and-life-skills"
         ]
       }
@@ -425,10 +424,10 @@
     },
     "categories":
     [
-      "crisis-support",
-      "education",
-      "homelessness",
-      "employment-and-life-skills"
+      "Crisis Support",
+      "Education",
+      "Housing and Financial Stability",
+      "Employment and Life Skills"
     ],
     "description": "Charlotte Family Housing provides supportive transitional shelter and affordable housing for families in several locations; Plaza Place, Hawthorne Place and various church congregations within the Family Promise program.",
     "opportunities":
@@ -513,8 +512,7 @@
     },
     "categories":
     [
-      "cleaning-and-maintenance",
-      "sports-recreation"
+      "Sports and Recreation"
     ],
     "description": "Help make our county beautiful.",
     "opportunities":
@@ -557,9 +555,9 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "education",
-      "sports-recreation"
+      "Children and Teens",
+      "Education",
+      "Sports and Recreation"
     ],
     "description": "",
     "opportunities":
@@ -617,10 +615,10 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "crisis-support",
-      "homelessness",
-      "employment-and-life-skills"
+      "Children and Teens",
+      "Crisis Support",
+      "Housing and Financial Stability",
+      "Employment and Life Skills"
     ],
     "description": "Crisis Assistance Ministry helps families facing financial crisis by: providing for basic needs with rent and utility assistance, clothing, household goods, furniture and appliances; fostering financial stability through partnerships, counseling, and support to give families the tools they need to move toward stability; and educating the community about the realities of poverty in Mecklenburg County.",
     "opportunities":
@@ -722,7 +720,7 @@
       {
         "name": "Furniture Bank Donation Collectors",
         "address": "",
-        "description": "Help once a week, once a month or “on-call” to pick up donations from individuals and businesses in the community. Volunteers who have their own truck are especially needed, though volunteers are also needed to ride on agency trucks.",
+        "description": "Help once a week, once a month or "on-call" to pick up donations from individuals and businesses in the community. Volunteers who have their own truck are especially needed, though volunteers are also needed to ride on agency trucks.",
         "tags":
         [
           "individual",
@@ -757,10 +755,10 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "education"
+      "Children and Teens",
+      "Education"
     ],
-    "description": "Classroom Central’s mission is to equip students living in poverty to effectively learn by collecting and distributing free school supplies. We do this via four programs: a Free Store where teachers can “shop” for free school supplies, a Mobile Free Store which distributes supplies quarterly to geographically further districts, our Classroom Up online ordering program and a Backpacks and Basics program which targets the highest poverty schools in our region. Classroom Central supports over 200 schools in six school districts: Charlotte-Mecklenburg, Gaston, Iredell-Statesville, Kannapolis, Lancaster and Union. When equipped with the proper supplies, we believe there’s no limit to what children can achieve.",
+    "description": "Classroom Central’s mission is to equip students living in poverty to effectively learn by collecting and distributing free school supplies. We do this via four programs: a Free Store where teachers can "shop" for free school supplies, a Mobile Free Store which distributes supplies quarterly to geographically further districts, our Classroom Up online ordering program and a Backpacks and Basics program which targets the highest poverty schools in our region. Classroom Central supports over 200 schools in six school districts: Charlotte-Mecklenburg, Gaston, Iredell-Statesville, Kannapolis, Lancaster and Union. When equipped with the proper supplies, we believe there’s no limit to what children can achieve.",
     "opportunities":
     [
       {
@@ -817,9 +815,8 @@
     },
     "categories":
     [
-      "homelessness",
-      "health-and-wellness",
-      "cleaning-and-maintenance"
+      "Housing and Financial Stability",
+      "Health and Wellness"
     ],
     "description": "Sow Much Good (SMG) was founded to eliminate socio-economic, racial, and ethnic health disparities that result from a lack of access to nutritionally dense food products in marginalized populations. SMG works to achieve food justice through programming and community based initiatives designed to provide equal access to organic food sources; to inspire individuals to take charge of their health and to promote healthy lifestyles through food and nutrition. - See more at: http://www.sowmuchgood.org/about-us/#sthash.lKDKm3M6.dpuf",
     "opportunities":
@@ -860,11 +857,10 @@
     },
     "categories":
     [
-      "cleaning-and-maintenance",
       "seniors",
-      "homelessness",
-      "health-and-wellness",
-      "food-preparation"
+      "Housing and Financial Stability",
+      "Health and Wellness",
+      "Food Preparation"
     ],
     "description": "Friendship Trays is a private, nonprofit agency that delivers more than 500 meals daily to elderly and homebound recipients in the Charlotte area. Due to individual’s dietary restrictions, they specialize in 15 modified diets.",
     "opportunities":
@@ -885,7 +881,7 @@
         ]
       },
       {
-        "name": "Prepare &amp; Pack Meals",
+        "name": "Prepare & Pack Meals",
         "address": "2401-A Distribution Street, Charlotte, NC 28203",
         "description": "The Kitchen Helpers put the food in containers so it is ready for the drivers. Some chopping, slicing, or dicing may be required. Some volunteers will help seal, label and distribute the meals to the volunteer drivers",
         "tags":
@@ -934,9 +930,9 @@
     },
     "categories":
     [
-      "cleaning-and-maintenance",
-      "elderly",
-      "employment-and-life-skills"
+      "seniors",
+      "Religious",
+      "Employment and Life Skills"
     ],
     "description": "Love INC provides home repairs and maintenance to elderly, disabled and low income individuals who are not able to pay for minor home repairs. Services include minor carpentry, handrails, bath grab-bars, minor repairs, wheelchair ramps and various types of yard work and maintenance.",
     "opportunities":
@@ -988,10 +984,9 @@
     },
     "categories":
     [
-      "homelessness",
-      "employment-and-life-skills",
-      "crisis-support",
-      "food-preparation"
+     "Housing and Financial Stability",
+      "Employment and Life Skills",
+      "Crisis Support",
     ],
     "description": "The Men’s Shelter of Charlotte provides safe emergency shelter while working to end homelessness. MSC operates two shelters and provides, meals, clothing and support services including substance abuse counseling and housing and employment assistance.",
     "opportunities":
@@ -1075,7 +1070,8 @@
     },
     "categories":
     [
-      "health-and-wellness"
+      "health-and-wellness",
+      "Medical Support"
     ],
     "description": "There are more than 167,000 uninsured people in Mecklenburg County. NC MedAssist's mission is to assist these low-income, uninsured North Carolina residents by operating a licensed pharmacy that provides free medications, healthcare advocacy and related educational services.",
     "opportunities":
@@ -1113,9 +1109,9 @@
     },
     "categories":
     [
-      "homelessness",
-      "donated-goods",
-      "cleaning-and-maintenance"
+      "Housing and Financial Stability",
+      "Donated Goods",
+      "Cleaning and Maintenance"
     ],
     "description": "Habitat for Humanity brings people together in partnership to provide safe, decent and affordable housing solutions for families and communities in need.",
     "opportunities":
@@ -1187,8 +1183,10 @@
     },
     "categories":
     [
-      "crisis-support",
-      "employment-and-life-skills"
+      "Crisis Support",
+      "Domestic Violence and Abuse""
+      "Children and Teens"
+      "Women"
     ],
     "description": "Safe Alliance assists over 12,000 people annually throughout Mecklenburg County and Lake Norman. We also reach thousands more through our educational and prevention programs as well as institutional advocacy efforts.",
     "opportunities":
@@ -1200,6 +1198,7 @@
         "tags":
         [
           "group",
+          "individual",
           "indirect",
           "direct",
           "weekday",
@@ -1227,9 +1226,9 @@
     },
     "categories":
     [
-      "donated-goods",
-      "homelessness",
-      "children-and-teens"
+      "Donated Goods",
+      "Housing and Financial Stability",
+      "Children and Teens"
     ],
     "description": "Second Harvest Food Bank supplies a network of over 500 nonprofit agencies and churches with food and essential grocery products. These agencies are comprised of emergency pantries, homeless shelters, soup kitchens, group homes for the handicapped, low income day care centers, and other similar programs serving low-income people.",
     "opportunities":
@@ -1266,7 +1265,7 @@
     },
     "categories":
     [
-      "homelessness"
+      "Housing and Financial Stability"
     ],
     "description": "The mission: Supportive Housing Communities (SHC) provides permanent affordable housing to alleviate homelessness and human suffering. We support previously homeless men, women and children permanently at housing three sites.",
     "opportunities":
@@ -1346,10 +1345,9 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "children-and-teens",
-      "homelessness",
-      "crisis-support"
+      "Children and Teens",
+      "Housing and Financial Stability",
+      "Crisis Support"
     ],
     "description": "The Relatives is a system of resources that helps children and youth find shelter and support. The crisis center is a nine bed co-ed shelter for youth in crisis (runaway/homeless) ages 7 – 17.",
     "opportunities":
@@ -1362,13 +1360,37 @@
         [
           "group",
           "children-and-teens",
-          "children-and-teens",
           "direct",
           "indirect",
           "food-preparation",
           "weekday",
           "weekend"
         ]
+      },
+      {
+        "name": "Workshop Instructors",
+        "address": "",
+        "description": "Volunteers are needed to teach workshops for the On Ramp program clients. Workshop topics can include but are not limited to tax preparation, fraud prevention, job coaching, resume building, interview preparation, education on how to care for infants, and more.",
+        "tags":
+        [
+          "indiviual",
+          "Education",
+          "Employment and Life Skills",
+        ],
+      },
+      {
+        "name": "Mentors and Tutors",
+        "address": "",
+        "description": "Helping children and youth at the Crisis Center with their school work. Working one-on- one with On Ramp and Journey Place clients to set goals/make life plans (i.e. resume building and job searches, applying for financial aid, assisting with grocery shopping, driving to appointments, etc.).",
+        "tags":
+        [
+          "Children and Teens",
+          "Education",
+          "Employment and Life Skills",
+          "background-check",
+          "application",
+          "training-or-certification",
+        ],
       }
     ]
   },
@@ -1389,10 +1411,10 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "education",
-      "health-and-wellness",
-      "sports-recreation"
+      "Children and Teens",
+      "Education",
+      "Health and Wellness",
+      "Sports and Recreation"
     ],
     "description": "The YMCA Mission is to put Christian principles into practice through programs that build healthy spirt, mind and body for all.",
     "opportunities":
@@ -1431,6 +1453,35 @@
           "thursdays",
           "mornings"
         ]
+      },
+      {
+        "name": "Y Readers",
+        "address": "",
+        "description": "The purpose of Y Readers is to identify children currently performing below grade level and engage them in active learning and enrichment that improves literacy skills and self-confidence in the classroom. Adult volunteers are asked to become reading buddies. (www.ymcacharlotte.org/yreaders).The afterschool program runs at 6 CMS schools during the school year and at 11 summer camp sites during the summer",
+        "tags":
+        [
+          "indiviual",
+          "Education",
+          "weekly",
+          "mondays",
+          "tuesdays",
+          "thursdays",
+          "application",
+          "background-check",
+          "training-or-certification",
+        ]
+      },
+      {
+        "name": "Y Achievers",
+        "address": "",
+        "description": "Nationally based career and college readiness program for high school students, designed to expose students to careers through job shadowing and summer internship opportunities and college visits. Helps youth raise academic standards, develop a positive sense of self, build character, explore diverse college and career options, and meet and interact with professionals who serve as role models to inspire them to greater heights. Adult volunteers are asked to serve as mentors guiding teens through structured workshops, presentations & events hosted by the YMCA. www.ymcacharlotte.org/yachievers",
+        "tags":
+        [
+          "indiviual",
+          "Education",
+          "weekly",
+          "application"
+        ]
       }
     ]
   },
@@ -1453,10 +1504,9 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "education",
-      "sports-recreation",
-      "arts-and-crafts"
+      "Children and Teens",
+      "Education",
+      "Sports and Recreation"
     ],
     "description": "Fifty weeks each year during after school hours, school holidays and during the summer, eleven YWCA Youth Learning Centers open their doors to over 360 youth from at risk communities, ages five to 12. The Youth Learning Centers offer youth a safe, educational and fun environment, with a variety of activities from swimming and storytelling to field trips and arts and crafts.",
     "opportunities":
@@ -1509,8 +1559,8 @@
     },
     "categories":
     [
-      "children-and-teens",
-      "education"
+      "Children and Teens",
+      "Education"
     ],
     "description": "The mission of Communities In Schools (CIS) is to surround students with a community of support, empowering them to stay in school and achieve in life.",
     "opportunities":
@@ -1587,6 +1637,8 @@
     },
     "categories":
     [
+      "Housing and Financial Stability",
+      "Education"
     ],
     "description": "Community Link provides programs for individuals and families to obtain and sustain safe, decent, and affordable housing.",
     "opportunities":
@@ -1651,8 +1703,8 @@
     },
     "categories":
     [
-      "homelessness",
-      "employment-and-life-skills"
+     "Housing and Financial Stability",
+      "Employment and Life Skills"
     ],
     "description": "Hope Haven, a foundation of recovery, provides life skills for homeless, chemically dependent adults and families within a supportive residential environment, leading to independence.",
     "opportunities":
@@ -1719,8 +1771,9 @@
     },
     "categories":
     [
-      "education",
-      "employment-and-life-skills"
+      "Education",
+      "Employment and Life Skills",
+      "Legal Support"
     ],
     "description": "La Coalición is a community of Latin Americans, immigrants and allies that promotes full and equal participation of all people in the civic, economic and cultural life of North Carolina through education, celebration and advocacy.",
     "opportunities":
@@ -1728,7 +1781,7 @@
       {
         "name": "Women's Advocate",
         "address": "",
-        "description": "Women’s advocates are court advocates that act as part of a support system for female victims of domestic violence. volunteers operate on an “on call” basis; 6 month commitment required.Fluent in Spanish and English, excellent interpersonal skills, problem",
+        "description": "Women’s advocates are court advocates that act as part of a support system for female victims of domestic violence. volunteers operate on an on call basis; 6 month commitment required.Fluent in Spanish and English, excellent interpersonal skills, problem",
         "tags":
         [
           "women",
@@ -1760,24 +1813,26 @@
     ]
   },
   {
-    "name": "The Salvation Army",
+    "name": "The Salvation Army of Greater Charlotte",
     "contact":
     {
-      "address": "",
+      "address": "4015 Stuart Andrew Blvd",
       "city": "Charlotte",
       "state": "NC",
-      "zip": "",
-      "email": "",
-      "phone": "",
-      "web": "",
-      "volunteer_url": "",
-      "facebook": "",
+      "zip": "28217",
+      "email": "sarah.gamble@uss.salvationarmy.org",
+      "phone": "7047162769",
+      "web": "https://www.salvationarmycarolinas.org/charlotte/home/",
+      "volunteer_url": "https://www.cervistech.com/acts/console.php?console_id=0160&console_type=event&ht=1",
+      "facebook": "https://www.facebook.com/salvationarmycharlotte/",
       "twitter": ""
     },
     "categories":
     [
+    "Housing and Financial Stability",
+    "Donated Goods"
     ],
-    "description": "",
+    "description": "The Salvation Army provides hope, care, comfort, guidance, and encouragement to people in need. Whether it is caring for women and children in the Center of Hope homeless shelter, guiding at-risk youth in our Boys & Girls Clubs, providing dignity to low income seniors living in our Booth Garden apartments, helping chemically addicted men and women stand up to their addictions, or offering comfort as we help victims rebuild their lives in times of disaster—we are there.",
     "opportunities":
     [
       {
@@ -1825,6 +1880,8 @@
     },
     "categories":
     [
+      "Legal Support",
+      "Housing and Financial Stability"
     ],
     "description": "The mission is to ensure a full measure of justice for those in need. LSSP provides a wide range of civil legal assistance to eligible low-income persons in the Charlotte metropolitan area and west-central N.C.",
     "opportunities":
@@ -1883,6 +1940,7 @@
     },
     "categories":
     [
+    "Health and Wellness"
     ],
     "description": "The MHA’s mission is to promote mental wellness through advocacy, prevention, and education in Mecklenburg and Cabarrus Counties. The Compeer program is a socialization program for persons diagnosed with a mental health disorder.",
     "opportunities":
@@ -1927,16 +1985,18 @@
       "city": "Charlotte",
       "state": "NC",
       "zip": "28201",
-      "email": "",
-      "phone": "",
+      "email": "adevoe@mabnc.org",
+      "phone": "7043723870",
       "web": "http://www.mabnc.org",
-      "volunteer_url": "",
-      "facebook": "",
+      "volunteer_url": "https://www.mabnc.org/volunteer/volunteer.cfm",
+      "facebook": "https://www.facebook.com/Metrolina-Association-for-the-Blind-107491369536/",
       "twitter": ""
     },
     "categories":
     [
-      "health-and-wellness"
+    "Health and Wellness"
+    "Employment and Life Skills",
+    "Medical Support"
     ],
     "description": "Metrolina Association for the Blind (MAB) provides rehabilitative services to approximately 1000 people who are visually impaired in Mecklenburg, Union, and Cabarrus Counties.",
     "opportunities":
@@ -1970,5 +2030,1203 @@
         ]
       }
     ]
+  },
+    {
+      "name": "Academic Learning Center",
+      "contact":
+      {
+        "address": "2353-160 Concord Lake Road, P.O. Box 1881",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28025",
+        "email": "info@academiclearningcenter.com",
+        "phone": "7047822301",
+        "web": "http://www.academiclearningcenter.com",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Academic-Learning-Centers-Union-County-College-274144019881/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Education",
+        "Children and Teens"
+      ],
+      "description": "Academic Learning Center is a free afterschool tutoring program for students in grades one through five who are performing below grade level."
+    },
+    {
+      "name": "Ada Jenkins Center",
+      "contact":
+      {
+        "address": "212 Gamble Street",
+        "city": "Davidson",
+        "state": "NC",
+        "zip": "28036",
+        "email": "info@adajenkins.org",
+        "phone": "7048960471",
+        "web": "http://www.adajenkins.org",
+        "volunteer_url": "",
+        "facebook": "facebook.com/adajenkinscenter",
+        "twitter": "@AdaJenkinsNC"
+      },
+      "categories":
+      [
+        "Education",
+        "Health and Wellness",
+        "Employment and Life Skills",
+        "Crisis Support",
+        "Housing and Financial Stability"
+      ],
+      "description": "The Ada Jenkins center is an all-in-one agency that provides individuals and family an array of services under one roof, including medical assessments, financial stability, and crisis support."
+    },
+    {
+      "name": "American Red Cross Carolina Piedmont Region",
+      "contact":
+      {
+        "address": "2425 Park Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28203",
+        "email": "",
+        "phone": "7043761661",
+        "web": "http://www.redcross.org/local/western-north-carolina",
+        "volunteer_url": "http://www.redcross.org/support/volunteer/opportunities#step1",
+        "facebook": "",
+        "twitter": "https://twitter.com/GCCRedCross"
+      },
+      "categories":
+      [
+        "Donated Goods",
+        "Crisis Support"
+      ],
+      "description": "The American Red Cross’s mission is to prevent and relieve suffering, here at home and around the world, through disaster relief, supporting military families, donating blood, providing health and safety services, and providing humanitarian aid to the international community."
+    },
+    {
+      "name": "Anson County Partnership for Children",
+      "contact":
+      {
+        "address": "117 South Greene Street",
+        "city": "Wadesboro",
+        "state": "NC",
+        "zip": "28170",
+        "email": "caroline.goins@ansonchildren.org",
+        "phone": "7046944036",
+        "web": "http://ansonchildren.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/AnsonCountyPartnershipForChildren/?ref=ts",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Education"
+      ],
+      "description": "Anson County Partnership for Children is an educational program for children that provides direct services for children and families, parenting education, child care provider training programs, health services, and other services which are needed to help young children and their families.",
+    },
+    {
+      "name": "Anson County Domestic Violence Coalition",
+      "contact":
+      {
+        "address": "304 East Wade St.",
+        "city": "Wadesboro",
+        "state": "NC",
+        "email": "",
+        "phone": "7046944499",
+        "web": "http://www.acdvc.com",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Anson-County-Domestic-Violence-Coalition-296176480467/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Domestic Violence and Abuse",
+        "Crisis Support"
+      ],
+      "description": "ACDVC’s mission is to provide a safe, compassionate, non-judgmental atmosphere for victims and survivors of domestic violence, family violence, and sexual assault."
+    },
+    {
+      "name": "Arthritis Patient Services",
+      "contact":
+      {
+        "address": "1817 Central Avenue, Suite 211",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28205",
+        "email": "help@arthritisservices.org",
+        "phone": "7043314878",
+        "web": "http://www.arthritisservices.org/Contact.html",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Arthritis-Services-194061451998/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Health and Wellness",
+        "Disabilities",
+        "Medical Support"
+      ],
+      "description": "Arthritis Patient Services provide help and hope to those people in our community who suffer from arthritis and other related conditions."
+    },
+    {
+      "name": "Barium Springs Home for Children",
+      "contact":
+      {
+        "address": "Post Office Box 1",
+        "city": "Barium Springs",
+        "state": "NC",
+        "zip": "28010",
+        "email": "",
+        "phone": "7048724157",
+        "web": "https://www.childrenshopealliance.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Childrens-Hope-Alliance-57330699955/",
+        "twitter": "https://twitter.com/CHA_Alliance"
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Employment and Life Skills",
+        "Health and Wellness"
+      ],
+      "description": "The mission of Children’s Hope Alliance is to provide a safe, healing journey for children and families during difficult times. Services provided include family education, outpatient therapy, and child adoption services."
+    },
+    {
+      "name": "Boy Scouts of America, Central NC Council",
+      "contact":
+      {
+        "address": "PO Box 250, 32252 Hwy. 24-27",
+        "city": "Albemarle",
+        "state": "NC",
+        "zip": "28002",
+        "email": "",
+        "phone": "704.982.0141",
+        "web": "http://www.centralnccouncilbsa.com/OpenRosters/View_Homepage.aspx?orgkey=2390",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Central-NC-Council-BSA-143989972311540/",
+        "twitter": "https://twitter.com/centralnc_bsa"
+      },
+      "categories":
+      [
+        "Children and Teens"
+      ],
+      "description": "The Boy Scouts of America is one of the nation's largest and most prominent values-based youth development organizations. The BSA provides a program for young people that builds character, trains them in the responsibilities of participating citizenship, and develops personal fitness."
+    },
+    {
+      "name": "Boy Scouts of America, Mecklenburg County",
+      "contact":
+      {
+        "address": "1410 East 7th Street",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28204",
+        "email": "",
+        "phone": "7043335471",
+        "web": "http://www.mccscouting.org/Default.aspx",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Mecklenburg-County-Council-Boy-Scouts-of-America-143485925674897/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens"
+      ],
+      "description": "The Boy Scouts of America is one of the nation's largest and most prominent values-based youth development organizations. The BSA provides a program for young people that builds character, trains them in the responsibilities of participating citizenship, and develops personal fitness."
+    },
+    {
+      "name": "Boys and Girls Club, Cabarrus County",
+      "contact":
+      {
+        "address": "47 Spring Street NW, PO Box 1405",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28026",
+        "email": "",
+        "phone": "7047212582",
+        "web": "http://www.bgclubcab.org/default.aspx",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/BGclubcab/?ref=hl",
+        "twitter": "https://twitter.com/BGClubCab"
+      },
+      "categories":
+      [
+        "Children and Teens"
+        "Education"
+        "Health and Wellness"
+      ],
+      "description": "Boys & Girls Clubs are a safe place for children to learn and grow. Club programs and services promote and enhance the development of boys and girls by instilling a sense of competence, usefulness, belonging and influence."
+    },
+    {
+      "name": "Cabarrus Meals on Wheels",
+      "contact":
+      {
+        "address": "1701 S Main St",
+        "city": "Kannapolis",
+        "state": "NC",
+        "zip": "28081",
+        "email": "info@cabarrusmow.org",
+        "phone": "7049323412",
+        "web": "http://www.cabarrusmow.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/cabarrusmow",
+        "twitter": "https://twitter.com/CabarrusMow"
+      },
+      "categories":
+      [
+        "Seniors",
+        "Disabilities"
+      ],
+      "description": "Cabarrus Meals on Wheels has been providing well-balanced, nutritious meals to seniors and individuals with disabilities 5 days a week since 1974. Volunteers deliver meals and provide a safety check to disadvantaged seniors in Kannapolis, Concord and surrounding areas."
+    },
+    {
+      "name": "Cannon Memorial YMCA",
+      "contact":
+      {
+        "address": "101 YMCA Drive",
+        "city": "Kannapolis",
+        "state": "NC",
+        "zip": "28081",
+        "email": "",
+        "phone": "7049399622",
+        "web": "http://www.cannonymca.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/CannonMemorialYMCA",
+        "twitter": "https://twitter.com/CannonMemorialY"
+      },
+      "categories":
+      [
+        "Sports and Recreation",
+        "Health and Wellness"
+      ],
+      "description": "The Cannon Memorial YMCA includes 3 branches in Cabarrus County: West Cabarrus, Kannapolis, and Harrisburg. These YMCAs strengthen the foundations of our community through well-being and fitness, camps, family time, swim, sports and play, and other activities for people of all ages, incomes and abilities."
+    },
+    {
+      "name": "Care Ring",
+      "contact":
+      {
+        "address": "601 E. 5th Street, Suite 140",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "email": "info@careringnc.org",
+        "phone": "704-375-0172",
+        "web": "http://www.careringnc.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/CareRingNC/",
+        "twitter": "https://twitter.com/CareRingNC"
+      },
+      "categories":
+      [
+        "Medical Support"
+      ],
+      "description": "Care Ring is a nonprofit organization dedicated to providing preventive health services for the uninsured, underinsured or those  otherwise lacking access to affordable, high-quality preventive health care."
+    },
+    {
+      "name": "Charlotte Community Health Clinic",
+      "contact":
+      {
+        "address": "8401 Medical Plaza Drive, Suite 300",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28262",
+        "email": "",
+        "phone": "7043166561",
+        "web": "http://charlottecommunityhealthclinic.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Cltchc",
+        "twitter": "https://twitter.com/MyCCHC"
+      },
+      "categories":
+      [
+        "Medical Support"
+      ],
+      "description": "Charlotte Community Health Clinic improves the health of the community by providing quality, accessible health services to low-income and uninsured adults."
+    },
+    {
+      "name": "Charlotte Speech and Hearing",
+      "contact":
+      {
+        "address": "741 Kenilworth Avenue, Suite 100",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28204",
+        "email": "cshc@charlottespeechhearing.com",
+        "phone": "7045238027",
+        "web": "http://charlottespeechhearing.com",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/CharlotteSpeechandHearing",
+        "twitter": "https://twitter.com/cltspeechhear"
+      },
+      "categories":
+      [
+        "Disabilities",
+        "Medical Support",
+        "Health and Wellness"
+      ],
+      "description": "Our mission is to provide a full range of effective, family-centered speech-language and hearing services to everyone in need. "
+    },
+    {
+      "name": "Charlotte-Mecklenburg Senior Centers",
+      "contact":
+      {
+        "address": "Multiple Locations",
+        "email": "Park-Admin@mecklenburgcountync.gov",
+        "phone": "7043367600",
+        "web": "http://charmeck.org/mecklenburg/county/ParkandRec/Facilities/Pages/Senior-Centers.aspx",
+        "volunteer_url": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Seniors",
+        "Health and Wellness"
+      ],
+      "description": "Senior Centers provide individuals 55 years and older various opportunities to improve their physical and cognitive health, expand their support systems, and find services they need to remain independent."
+    },
+    {
+      "name": "Child Care Resources",
+      "contact":
+      {
+        "address": "4600 Park Road Suite 400",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28209",
+        "email": "mailbox@childcareresourcesinc.org",
+        "phone": "7043766697",
+        "web": "http://www.childcareresourcesinc.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/ChildCareResourcesInc/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Education",
+        "Health and Wellness",
+        "Housing and Financial Stability"
+      ],
+      "description": "Child Care Resources assists families who combine work and family responsibilities in managing life transitions that include entry into the workforce, return to work, education or training, job changes, shift or schedule changes and family emergencies."
+    },
+    {
+      "name": "Coltrane L.I.F.E. Center",
+      "contact":
+      {
+        "address": "321 Corban Ave. SE",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28025",
+        "email": "ccameron@coltranelifecenter.org",
+        "phone": "7047881215",
+        "web": "http://www.coltranelifecenter.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/coltranelifecenter/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Seniors",
+        "Health and Wellness"
+      ],
+      "description": "The Coltrane LIFE (Living Interest for the Elderly) Center helps older and disabled adults continue to live at home rather than be placed in a nursing home."
+    },
+    {
+      "name": "Community Free Clinic",
+      "contact":
+      {
+        "address": "528 Lake Concord Rd NE # A",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28025",
+        "email": "",
+        "phone": "7047820650",
+        "web": "http://www.communityfreeclinic.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/communityfreeclinicnc/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support"
+      ],
+      "description": "The Community Free Clinic provides medical care and lab services at no cost to low income un-insured residents of Cabarrus County who are diagnosed with chronic health conditions. "
+    },
+    {
+      "name": "Community Health Services of Union County",
+      "contact":
+      {
+        "address": "415 East Windsor Street",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28112",
+        "email": "",
+        "phone": "7042960909",
+        "web": "http://www.chsuc.org/home.html",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Community-Health-Services-of-Union-County-320470464824739/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support",
+        "Disabilities"
+      ],
+      "description": "Community Health Services of Union County, Inc.'s mission is to provide personalized, high-quality care to Union County residents living with diabetes and its related complications."
+    },
+    {
+      "name": "Council For Children’s Rights",
+      "contact":
+      {
+        "address": "601 E. Fifth Street, Suite 510",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "email": "info@cfcrights.org",
+        "phone": "7043727961",
+        "web": "http://www.cfcrights.org",
+        "volunteer_url": "http://www.cfcrights.org/make-a-difference/volunteer/",
+        "facebook": "https://www.facebook.com/CFCRights",
+        "twitter": "https://twitter.com/cfcrights"
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Health and Wellness"
+      ],
+      "description": "The Council for Children’s Rights leads communities to stand up for every child’s right to be safe, healthy and educated. We do that through individual advocacy, legal representation and addressing broad, community-wide issues through research and policy work."
+    },
+    {
+      "name": "Council on Aging in Union County",
+      "contact":
+      {
+        "address": "1401 Skyway Drive",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28110",
+        "email": "coa@coaunion.org",
+        "phone": "7042921797",
+        "web": "http://www.coaunion.org",
+        "volunteer_url": "http://www.coaunion.org/7.html",
+        "facebook": "https://www.facebook.com/groups/163966486999/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Seniors",
+        "Health and Wellness"
+      ],
+      "description": "Council on Aging in Union County is a private, nonprofit agency striving to promote a quality of life and supportive services for adults 60 years of age and older living in Union County."
+    },
+    {
+      "name": "Cabarrus Victims Assistance Network (CVAN)",
+      "contact":
+      {
+        "address": "543 Concord Parkway N.",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28027",
+        "email": "",
+        "phone": "7047882826",
+        "web": "http://www.cvan.org",
+        "volunteer_url": "http://www.cvan.org/Volunteer.aspx#Opportunities",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Domestic Violence and Abuse",
+        "Women",
+        "Children and Teens"
+      ],
+      "description": "CVAN (Cabarrus Victims Assistance Network) provides safety, shelter and support for battered women and their children in Cabarrus County, NC"
+    },
+    {
+      "name": "Disability Rights and Resources",
+      "contact":
+      {
+        "address": "5801 Executive Center Dr # 101",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28212",
+        "email": "mailto@disability-rights.org",
+        "phone": "7045370550",
+        "web": "www.disability-rights.org/",
+        "volunteer_url": "http://www.disability-rights.org/?page_id=41",
+        "facebook": "https://www.facebook.com/disabilityrightsclt",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Disabilities",
+        "Education",
+        "Housing and Financial Stability"
+
+      ],
+      "description": "We are an advocacy-based, consumer-controlled, community-embedded center that advocates with and serves as mentors for people with disabilities."
+    },
+    {
+      "name": "SCAN of Iredell",
+      "contact":
+      {
+        "address": "207 Walnut Street",
+        "city": "Statesville",
+        "state": "NC",
+        "zip": "28677",
+        "email": "ginger@iredellscan.org",
+        "phone": "7048782227",
+        "web": "http://www.iredellscan.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/SCAN-of-Iredell-an-Exchange-Club-Center-227370440679055/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Domestic Abuse and Violence",
+        "Children and Teens"
+      ],
+      "description": "Building hope for children and families through education, counseling and intervention programs to Stop Child Abuse Now."
+    },
+    {
+      "name": "Fifth Street Ministries",
+      "contact":
+      {
+        "address": "PO Box 5217",
+        "city": "Statesville",
+        "state": "NC",
+        "zip": "28687",
+        "email": "admin@fifthstreetministries.com",
+        "phone": "7048724045",
+        "web": "http://www.fifthstreetministries.com",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/Fifth-Street-Ministries-152049251877/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Housing and Financial Stability",
+        "Medical Support",
+        "Domestic Violence and Abuse",
+        "Donated Goods"
+      ],
+      "description": "Diakonos, Inc. has a mission to provide for the basic needs of homeless and impoverished persons."
+    },
+    {
+      "name": "Florence Crittenton Services",
+      "contact":
+      {
+        "address": "1300 Blythe Blvd",
+        "state": "Charlotte",
+        "state": "NC",
+        "zip": "28203",
+        "email": "jcraig@fcsnc.org",
+        "phone": "7043724663",
+        "web": "http://www.fcsnc.org",
+        "volunteer_url": "http://www.fcsnc.org/volunteer/",
+        "facebook": "https://www.facebook.com/FlorenceCrittentonNC/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Women",
+        "Crisis Support",
+        "Medical Support"
+      ],
+      "description": "Founded in 1903, Florence Crittenton Services of North Carolina is a non-profit organization that helps pregnant and non-pregnant yet at-risk girls and women by providing comprehensive medical and prenatal care, social, educational, adoption and parenting support services, and substance abuse intervention, treatment and prevention."
+    },
+  {
+      "name": "Friendship Home",
+      "contact":
+      {
+        "address": "2111 Stafford Street",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28110",
+        "email": "frndshp69@aol.com",
+        "phone": "7042894144",
+        "web": "http://friendshiphomeofmonroe.org",
+        "volunteer_url": "http://friendshiphomeofmonroe.org/get-involved/",
+        "facebook": "https://www.facebook.com/Friendship-Home-of-Monroe-260075950671311/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support",
+        "Health and Wellness",
+        "Crisis Support",
+        "Employment and Life Skills"
+      ],
+      "description": "Founded in 1969, the Friendship Home of Monroe provides a wide spectrum of services to the local community. In addition to our 24-hour  residential treatment program for alcoholic men, we offer longer term independent living for graduates of that same program."
+    },
+  {
+      "name": "Girl Scouts Hornets’ Nest Council",
+      "contact":
+      {
+        "address": "7007 Idlewild Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28212",
+        "email": "marketing@hngirlscouts.org",
+        "phone": "7047316500",
+        "web": "http://www.hngirlscouts.org",
+        "volunteer_url": "https://www.hngirlscouts.org/adults/volunteersjoin/",
+        "facebook": "https://www.facebook.com/gshnc/",
+        "twitter": "https://twitter.com/GSHNC?ref_src=twsrc%5Etfw"
+      },
+      "categories":
+      [
+        "Women",
+        "Children and Teens",
+        "Health and Wellness"
+      ],
+      "description": "Girl Scouts, Hornets’ Nest Council has one focus. Girls. Our mission is to build girls of courage, confidence and character who make the world a better place."
+    },
+  {
+      "name": "Goodwill Industries of the Southern Piedmont",
+      "contact":
+      {
+        "address": "2122 Freedom Drive",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28208",
+        "email": "",
+        "phone": "7043723434",
+        "web": "http://www.goodwillsp.org",
+        "volunteer_url": "http://www.goodwillsp.org/volunteers/",
+        "facebook": "http://www.facebook.com/goodwillsp",
+        "twitter": "http://www.twitter.com/goodwillsp"
+      },
+      "categories":
+      [
+        "Donated Goods",
+        "Housing and Financial Stability",
+        "Employment and Life Skills"
+      ],
+      "description": "Goodwill Industries provides affordable donated goods to local communities and families in need"
+    },
+    {
+      "name": "Habitat for Humanity Cabarrus County",
+      "contact":
+      {
+        "address": "8 Church Street SE",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28025",
+        "email": "info@habitatcabarrus.org",
+        "phone": "7047864001",
+        "web": "http://www.habitatcabarrus.org/habitat",
+        "volunteer_url": "http://www.habitatcabarrus.org/habitat/volunteer/opportunities",
+        "facebook": "https://www.facebook.com/habitatcabarruscounty",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Housing and Financial Stability"
+      ],
+      "description": "Habitat Cabarrus is a housing ministry has now built 141 new houses, completed rehab work, home repairs or weatherization work on over 100 houses and has served 12 families in transitional housing."
+    },
+    {
+      "name": "Helping our Loved Ones Learn and Achieve (HOLLA)",
+      "contact":
+      {
+        "address": "229 E. Main Street",
+        "city": "Morven",
+        "state": "NC",
+        "zip": "28119",
+        "email": "holla@wadesboro.com",
+        "phone": "7048513144",
+        "web": "http://holla.ws/1/",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/HOLLA-166321664907/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Education"
+      ],
+      "description": "The non-profit organization HOLLA! provides a variety of services and programs that aid in increasing the test scores for children so that they are better equipped to make positive contribution to the community and society."
+    },
+  {
+      "name": "Hope Haven",
+      "contact":
+      {
+        "address": "3815 N. Tryon Street",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28206",
+        "email": "kdemeritte@hopehaveninc.org",
+        "phone": "7043728809",
+        "web": "http://www.hopehaveninc.org",
+        "volunteer_url": "http://www.hopehaveninc.org/get-involved/",
+        "facebook": "https://www.facebook.com/hopehavenclt/",
+        "twitter": "https://twitter.com/HopeHavenInc"
+      },
+      "categories":
+      [
+        "Health and Wellness",
+        "Employment and Life Skills"
+      ],
+      "description": "Hope Haven Inc., a foundation of recovery, provides life skills for chemically dependent adults and families within a supportive residential environment leading to independence."
+    },
+  {
+      "name": "Hospice & Palliative Care of Cabarrus County",
+      "contact":
+      {
+        "address": "5003 Hospice Lane",
+        "city": "Kannapolis",
+        "state": "NC",
+        "zip": "28081",
+        "email": "info@hpccc.org",
+        "phone": "7049359434",
+        "web": "http://www.hpccc.org/home.asp",
+        "volunteer_url": "http://www.hpccc.org/volunteer.asp",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support",
+        "Disabilities"
+      ],
+      "description": "Hospice & Palliative Care of Cabarrus County, an affiliate of CMC-NorthEast, serves adults and children with any life-limiting illness. Hospice care enables patients to remain at home with their family, while obtaining a level of care formerly possible only in the hospital setting."
+  },
+  {
+      "name": "Hospice and Palliative Care of Iredell County",
+      "contact":
+      {
+        "address": "2347 Simonton Road",
+        "city": "Statesville",
+        "state": "NC",
+        "zip": "28625",
+        "email": "",
+        "phone": "7048734719",
+        "web": "http://www.hoic.org/default.asp",
+        "volunteer_url": "http://www.hoic.org/volunteer.asp",
+        "facebook": "https://www.facebook.com/HPCIC/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support",
+        "Disabilities"
+      ],
+      "description": "A community-based nonprofit organization, Hospice & Palliative Care of Iredell County provides physical, social, emotional and spiritual support for those with life-limiting illnesses as well as assistance with pain and symptom management for those with chronic conditions."
+  },
+  {
+      "name": "Iredell County Council on Aging",
+      "contact":
+      {
+        "address": "344 East Front St.",
+        "city": "Statesville",
+        "state": "NC",
+        "zip": "28677",
+        "email": "",
+        "phone": "7048738568",
+        "web": "",
+        "volunteer_url": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Seniors"
+      ],
+      "description": "The Iredell Council on Aging is a private, not-for-profit agency devoted to improving the quality of life and maintaining independent living for Iredell’s older adults, 60 and over. "
+  },
+  {
+      "name": "Kindermourn",
+      "contact":
+      {
+        "address": "1320 Harding Place",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28204",
+        "email": "Info@Kindermourn.org",
+        "phone": "7043762580 ",
+        "web": "http://www.kindermourn.org",
+        "volunteer_url": "http://www.kindermourn.org/online_application",
+        "facebook": "https://www.facebook.com/KinderMourn/",
+        "twitter": "https://twitter.com/kindermourn"
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Crisis Support"
+      ],
+      "description": "KinderMourn provides hope for bereaved parents, grieving children and teens by offering support and counseling programs, creating awareness of bereavement issues and empowering the community to effectively assist those who have suffered an unthinkable loss."
+  },
+  {
+      "name": "Legal Aid of North Carolina",
+      "contact":
+      {
+        "address": "Multiple Locations",
+        "email": "",
+        "phone": "8662195262",
+        "web": "http://www.legalaidnc.org/public/learn/offices/",
+        "volunteer_url": "http://www.legalaidnc.org/public/participate/",
+        "facebook": "https://www.facebook.com/LegalAidNC/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Legal Support"
+      ],
+      "description": "Legal Aid of North Carolina is a statewide, nonprofit law firm that provides free legal services in civil matters to low-income people in order to ensure equal access to justice and to remove barriers to economic opportunity. We help individuals, families and communities with legal problems affecting basic human needs, such as family, housing, education, employment and income."
+  },
+  {
+      "name": "Legal Services of Southern Piedmont",
+      "contact":
+      {
+        "address": "1431 Elizabeth Ave.",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28204",
+        "email": "info@lssp.org",
+        "phone": "7043761600",
+        "web": "http://www.lssp.org",
+        "volunteer_url": "http://www.lssp.org/volunteer/",
+        "facebook": "https://www.facebook.com/LegalServicesofSouthernPiedmont/",
+        "twitter": "https://twitter.com/LSSPCharlotte"
+      },
+      "categories":
+      [
+        "Legal Support"
+      ],
+      "description": "Legal Services of Southern Piedmont has operated an active Pro Bono Program since its inception in 1967."
+  },
+  {
+      "name": "Levine Jewish Center",
+      "contact":
+      {
+        "address": "5007 Providence Road",
+        "city": "Charlotte",
+        "staet": "NC",
+        "zip": "28226",
+        "email": "",
+        "phone": "7043665007",
+        "web": "http://www.charlottejcc.org",
+        "volunteer_url": "http://www.charlottejcc.org/webpage-directory/about-us/volunteer-opportunities/",
+        "facebook": "https://www.facebook.com/levinejcc/?ref=ts",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Religious",
+        "Health and Wellness",
+        "Children and Teens"
+      ],
+      "description": "The Levine Jewish Community Center is a family-oriented, vibrant facility where you can feel a sense of community and belonging.  The Levine JCC can offer you a place to maintain a healthy lifestyle, build relationships and engage in activities for all ages."
+  },
+  {
+      "name": "LIFESPAN",
+      "contact":
+      {
+        "address": "200 Clanton Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28217",
+        "email": "",
+        "phone": "7049445100",
+        "web": "http://www.lifespanservices.org",
+        "volunteer_url": "http://www.lifespanservices.org/donate/get-involved/",
+        "facebook": "https://www.facebook.com/LIFESPANInc",
+        "twitter": "https://twitter.com/#!/LIFESPAN_Inc"
+      },
+      "categories":
+      [
+        "Education",
+        "Disabilities"
+      ],
+      "description": "LIFESPAN’s mission is to develop and operate programs that emphasize inclusion and choice in order to provide education, employment, and enrichment to individuals with developmental disabilities."
+  },
+  {
+      "name": "Literacy Council of Union County",
+      "contact":
+      {
+        "address": "105-A East Jefferson Street",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28112",
+        "email": "info@literacyunion.org",
+        "phone": "7042261425",
+        "web": "http://www.literacyunion.org",
+        "volunteer_url": "http://www.literacyunion.org/volunteer",
+        "facebook": "https://www.facebook.com/Literacy-Council-of-Union-County-146905095372760/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Education",
+        "Employment and Life Skills"
+      ],
+      "description": "Without the ability to speak, read, write and understand English at a functional level, many adults become stuck in low-wage jobs. They struggle with inadequate or unaffordable housing and poor health. We help our adults change these circumstances by becoming competent readers and writers."
+  },
+  {
+      "name": "Mooresville/Lake Norman Christian Mission",
+      "contact":
+      {
+        "address": "266 N Broad St",
+        "city": "Mooresville",
+        "state": "NC",
+        "zip": "28115",
+        "email": "",
+        "phone": "7046642357",
+        "web": "http://mooresvillechristianmission.org",
+        "volunteer_url": "http://mooresvillechristianmission.org/get-involved/",
+        "facebook": "https://www.facebook.com/Mooresville-Christian-Mission-108946799123866/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Religious",
+        "Employment and Life Skills",
+        "Housing and Financial Stability"
+      ],
+      "description": "The Christian Mission engages the community to recognize and remove barriers and challenge the way society view poverty. Through collaboration with the community, the Mission provides resources, skills, education, and services to individuals and families to alleviate suffering and become independent."
+  },
+  {
+      "name": "Piedmont Mediation Center",
+      "contact":
+      {
+        "address": "1835 Davie Avenue, Suite 401",
+        "city": "Statesville",
+        "state": "NC",
+        "zip": "28677",
+        "email": "piedmontmediation1@juno.com",
+        "phone": "7048737624",
+        "web": "http://piedmontmediation.com",
+        "volunteer_url": "",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Legal Support"
+      ],
+      "description": "Piedmont Mediation Center, Inc. offers constructive processes for resolving differences and conflicts between individuals, groups, and organizations.  It gives people in conflict an opportunity to take responsibility for the resolution of their dispute and control of the outcome."
+  },
+  {
+      "name": "Regional AIDS Interfaith Network (RAIN)",
+      "contact":
+      {
+        "address": "601 E. 5th Street, Suite 470",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28202",
+        "email": "info@carolinarain.org",
+        "phone": "7043727246",
+        "web": "http://www.carolinarain.org/Page.aspx?pid=301",
+        "volunteer_url": "http://www.carolinarain.org/page.aspx?pid=356",
+        "facebook": "https://www.facebook.com/RAINCLT/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Health and Wellness",
+        "Crisis Support",
+        "Medical Support"
+      ],
+      "description": "RAIN engages the community to transform lives and promote respect and dignity for all people touched by HIV through compassionate care, education and leadership development."
+  },
+  {
+      "name": "Right Moves for Youth",
+      "contact":
+      {
+        "address": "2211 West Morehead Street",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28208",
+        "email": "info@rightmovesforyouth.org",
+        "phone": "7043774425",
+        "web": "http://www.rightmovesforyouth.org",
+        "volunteer_url": "http://www.rightmovesforyouth.org/#!volunteers/c15el",
+        "facebook": "https://www.facebook.com/rightmovesforyouth",
+        "twitter": "https://twitter.com/RMFYCharlotte"
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Education"
+      ],
+      "description": "The mission of Right Moves for Youth is to provide resources and guidance to help students graduate high school with a plan for their future success. Right Moves for Youth is a local non-profit organization working to reduce the occurrence of student dropouts in Mecklenburg County."
+  },
+  {
+      "name": "Teen Health Connection",
+      "contact":
+      {
+        "address": "3541 Randolph Rd Suite 206",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28211",
+        "email": "teenhealthconnection@teenhealthconnection.org",
+        "phone": " 7043818336",
+        "web": "http://www.teenhealthconnection.org",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/TeenHealthConnection?fref=ts",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Medical Support",
+        "Children and Teens",
+        "Health and Wellness"
+      ],
+      "description": "Teen Health Connection is a healthcare practice that provides medical and mental healthcare and prevention and health education services for adolescents ages 11 to 22."
+  },
+  {
+      "name": "The Arc of Mecklenburg County",
+      "contact":
+      {
+        "address": "3900 Park Road, Suite C",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28209",
+        "email": "",
+        "phone": "704-332-4535",
+        "web": "http://www.arcmeck.org/2015/",
+        "volunteer_url": "",
+        "facebook": "https://www.facebook.com/ArcMeck",
+        "twitter": "https://twitter.com/ArcMeck"
+      },
+      "categories":
+      [
+        "Disabilities",
+        "Health and Wellness",
+        "Employment and Life Skills"
+      ],
+      "description": "The Arc of Mecklenburg County is a non-profit organization that seeks to make positive differences in the lives of children and adults with developmental disabilities and their families."
+  },
+  {
+      "name": "The Arc of Union County",
+      "contact":
+      {
+        "address": "1653-C Campus Park Drive",
+        "city": "Monroe",
+        "city": "NC",
+        "zip": "28112",
+        "email": "",
+        "phone": "7042611550",
+        "web": "http://www.thearcisthere.org",
+        "volunteer_url": "http://www.thearcisthere.org/get-involved/volunteer",
+        "facebook": "https://www.facebook.com/thearcisthere/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Disabilities",
+        "Health and Wellness",
+        "Employment and Life Skills"
+      ],
+      "description": "The Arc of Union County is a non-profit organization that seeks to make positive differences in the lives of children and adults with developmental disabilities and their families."
+  },
+  {
+      "name": "The Arc of Cabarrus County",
+      "contact":
+      {
+        "address": "51 South Union Street",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28025",
+        "email": "",
+        "phone": "7047851382 ",
+        "web": "http://www.thearcisthere.org",
+        "volunteer_url": "http://www.thearcisthere.org/get-involved/volunteer",
+        "facebook": "https://www.facebook.com/thearcisthere/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Disabilities",
+        "Health and Wellness",
+        "Employment and Life Skills"
+      ],
+      "description": "The Arc of Cabarrus County is a non-profit organization that seeks to make positive differences in the lives of children and adults with developmental disabilities and their families."
+  },
+  {
+      "name": "Center for Community Trasition",
+      "contact":
+      {
+        "address": "2304 The Plaza",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28204",
+        "email": "info@centerforcommunitytransitions.org",
+        "phone": "704-494-0001",
+        "web": "http://www.centerforcommunitytransitions.org",
+        "volunteer_url": "http://www.centerforcommunitytransitions.org/volunteer.php",
+        "facebook": "https://www.facebook.com/charlottecct/?fref=ts",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Employment and Life Skills",
+        "Housing and Financial Stability",
+        "Women"
+      ],
+      "description": "The Center for Community Transitions is a non-profit organization with a mission to strengthen our community by helping people with criminal records and their families find a healthier and more productive way of living. Our work provides employment and transition services; supports alternatives to incarceration; and restores and strengthens family bonds."
+  },
+  {
+      "name": "The Learning Collaborative",
+      "contact":
+      {
+        "address": "3045 North Davidson St.",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28205",
+        "email": "",
+        "phone": "7043778076",
+        "web": "http://www.tlccharlotte.org",
+        "volunteer_url": "vsmith@tlccharlotte.org",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Education"
+      ],
+      "description": " The Learning Collaborative (TLC) provides a tuition free, high quality preschool education to at-risk families through a unique partnership with our children, families, parents, staff and community."
+  },
+  {
+      "name": "Turning Point",
+      "contact":
+      {
+        "address": "150 Winchester Ave.",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28110",
+        "email": " info@turntoday.net",
+        "phone": "704-226-1352",
+        "web": "http://www.turningpointnc.org",
+        "volunteer_url": "http://www.turningpointnc.org/get-involved/volunteer/",
+        "facebook": "",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Children and Teens",
+        "Domestic Violence and Abuse"
+      ],
+      "description": "Turning Point exists to end domestic abuse, sexual assault, and child abuse through safe shelter, advocacy, prevention, and social change."
+  },
+  {
+      "name": "Union County Community Shelter",
+      "contact":
+      {
+        "address": "311 East Jefferson Street",
+        "city": "Monroe",
+        "state": "NC",
+        "zip": "28112",
+        "email": "derrick.burnell@unionshelter.org",
+        "phone": "7042895300",
+        "web": "http://www.unionshelter.org",
+        "volunteer_url": "http://www.unionshelter.org/volunteer-application/#",
+        "facebook": "https://www.facebook.com/Union-County-Community-Shelter-354434283672/",
+        "twitter": ""
+      },
+      "categories":
+      [
+        "Housing and Financial Stability",
+        "Employment and Life Skills"
+      ],
+      "description": "",
   }
 ]

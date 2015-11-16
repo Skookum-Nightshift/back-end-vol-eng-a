@@ -12,6 +12,10 @@ ActiveAdmin.register Category do
 #   permitted << :other if resource.something?
 #   permitted
 # end
-
+index do
+  selectable_column
+  column :name
+  column :icon
+end
 
 end

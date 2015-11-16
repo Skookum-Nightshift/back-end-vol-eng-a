@@ -12,6 +12,15 @@ ActiveAdmin.register Connection do
 #   permitted << :other if resource.something?
 #   permitted
 # end
+index do
+  selectable_column
+  column :firstname
+  column :lastname
+  column :email
+  column :zipcode
+  column :organization_name
+  column :opportunity_name
 
+end
 
 end

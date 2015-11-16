@@ -30,6 +30,9 @@ end
 index do
   selectable_column
   column :name
+  column :zip
+  column :email
+  column :description
 end
 
 # See permitted parameters documentation:

@@ -1,5 +1,5 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "Hasten <no-reply@hasten.io>"
+  default from: "UWCCAspires <UWCCAspires@gmail.com>", to: "UWCCAspires <UWCCAspires@gmail.com>"
 
   def welcome_email(params)
     @firstname = params[:firstname].capitalize

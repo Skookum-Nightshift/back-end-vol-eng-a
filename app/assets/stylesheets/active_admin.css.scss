@@ -16,7 +16,7 @@ $skinHeaderBck: #1854A2;
 $panelHeaderBck: #1854A2;
 $skinActiveColor: #f1f5f6;
 $skinTextActiveColor: #000000;
-$skinLogo: url("uwcc.png") no-repeat 0 0;
+$skinLogo: url(asset-path("uwcc.png")) no-repeat 0 0;
 
 @import "active_skin";
 

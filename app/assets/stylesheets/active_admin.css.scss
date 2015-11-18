@@ -12,28 +12,55 @@
 @import "active_admin/base";
 
 $skinActiveColor: #3498db;
-$skinHeaderBck: #2c3e50;
-$panelHeaderBck: #2c3e50;
-// $skinLogo: url("admin_logo.png") no-repeat 0 0;
+$skinHeaderBck: #1854A2;
+$panelHeaderBck: #1854A2;
+$skinActiveColor: #f1f5f6;
+$skinTextActiveColor: #000000;
+$skinLogo: url("uwcc.png") no-repeat 0 0;
 
 @import "active_skin";
 
 #header {
-  background-color: #FFF;
+  background-color: $skinHeaderBck;
+  a, a:link {
+    color: #ffffff;
+  }
+  #utility_nav {
+    background: $skinHeaderBck;
+    li a {
+      color: #ffffff;
+    }
+    li:hover {
+    color: $skinTextActiveColor;
+    background: $skinActiveColor;
+    }
+  }
 }
 
-#titlebar_right .action_items a {
-  border-radius: 0 !important;
-  box-shadow: none !important;
-  text-shadow: none !important;
-  background: #3498db !important;
-  color: #FFF !important;
-  border: none !important;
-  padding: 17px !important;
-  font-size: 14px !important;
+
+#title_bar {
+  background: $skinHeaderBck;
+  .action_items span.action_item
+    & > a, & > .dropdown_menu > a {
+    &:hover {
+
+    }
+  }
+}
+
+#title_bar .action_items span.action_item > a {
+  color: #000000;
 }
 
 form .inline-hints img {
   max-width: 160px;
   height: auto;
+}
+
+form input[type=submit],
+a.button,
+a:link.button,
+a:visited.button {
+  color: #000000;
+  border: 1px solid #d3d8dc
 }

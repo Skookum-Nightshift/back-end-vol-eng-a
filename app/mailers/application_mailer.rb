@@ -1,5 +1,5 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "UWCCAspires <UWCCAspires@gmail.com>"
+  default from: "UWAspires <UWAspires@gmail.com>"
 
   def welcome_email(params)
     @firstname = params[:firstname].capitalize

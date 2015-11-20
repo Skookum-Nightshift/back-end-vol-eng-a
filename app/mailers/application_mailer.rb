@@ -1,11 +1,13 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "UWCCAspires <UWCCAspires@gmail.com>", to: "UWCCAspires <UWCCAspires@gmail.com>"
+  default from: "UWCCAspires <UWCCAspires@gmail.com>"
 
   def welcome_email(params)
     @firstname = params[:firstname].capitalize
     @organization = params[:organization_name]
     @opportunity = params[:opportunity_name]
-    mail(to: params[:email], subject: "Thanks for Connecting!")
+    @org_email = params[:organization_email]
+    mail(to: params[:email], subject: "Thanks for Connecting!",
+      bcc: ["UWCCAspires@gmail.com"]
   end
 
 end

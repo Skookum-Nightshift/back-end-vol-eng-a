@@ -7,7 +7,7 @@ class ApplicationMailer < ActionMailer::Base
     @opportunity = params[:opportunity_name]
     @org_email = params[:organization_email]
     mail(to: params[:email], subject: "Thanks for Connecting!",
-      bcc: ["UWAspires@gmail.com"]
+      bcc: ["UWAspires@gmail.com"])
   end
 
 end

@@ -50,5 +50,62 @@ Category.find(15).update_attributes(icon: "public/icons/legalAid.svg")
 
 Category.find(16).update_attributes(icon: "public/icons/disabilities.svg")
 
+Organization.find(1).update_attributes(logo: "/public/orgLogos/aChildsPlace.jpg")
+
+Organization.find(2).update_attributes(logo: "/public/orgLogos/aldersgate.svg")
+
+Organization.find(3).update_attributes(logo: "/public/orgLogos/bigBrothersSistersCharlotte.jpg")
+
+Organization.find(4).update_attributes(logo: "/public/orgLogos/boysAndGirlsCab.png")
+
+Organization.find(5).update_attributes(logo: "/public/orgLogos/centerOfHopeSalvationArmy.png")
+
+Organization.find(6).update_attributes(logo: "/public/orgLogos/charlotteFamilyHousing.jpg")
+
+Organization.find(7).update_attributes(logo: "/public/orgLogos/charlotte-meckParks.gif")
+
+Organization.find(8).update_attributes(logo: "/public/orgLogos/Charmeckschoolslogo.png")
+
+Organization.find(9).update_attributes(logo: "/public/orgLogos/crisis-assistance-ministry-logo.jpg")
+
+Organization.find(10).update_attributes(logo: "/public/orgLogos/classroomCentral.png")
+
+Organization.find(11).update_attributes(logo: "/public/orgLogos/soMuchGood.png")
+
+Organization.find(12).update_attributes(logo: "/public/orgLogos/friendshipTrays.png")
+
+Organization.find(13).update_attributes(logo: "/public/orgLogos/loveinclogo.gif")
+
+Organization.find(14).update_attributes(logo: "/public/orgLogos/mensShelterOfCharlotte.jpg")
+
+Organization.find(15).update_attributes(logo: "/public/orgLogos/ncmedassist_4c.jpg")
+
+Organization.find(16).update_attributes(logo: "/public/orgLogos/ourTownsHabitat.png")
+
+Organization.find(17).update_attributes(logo: "/public/orgLogos/safeAlliance.jpg")
+
+Organization.find(18).update_attributes(logo: "/public/orgLogos/secondHarvetFood.jpg")
+
+Organization.find(19).update_attributes(logo: "/public/orgLogos/supportiveHousingComm.jpg")
+
+Organization.find(20).update_attributes(logo: "/public/orgLogos/theRelatives.png")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
